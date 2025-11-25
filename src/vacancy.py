@@ -43,7 +43,7 @@ class Vacancy:
         """Метод, конвертирующий список словарей API в список словарей JSON"""
 
         list_vac = []
-        for item in list_vac:
+        for item in vacancies_jason:
             name = item.get("name", "Без названия")
             url = item.get("alternate_url", "")
             salary_data = item.get("salary")
