@@ -5,6 +5,7 @@ import requests
 import logging
 from typing import List
 
+
 logging.basicConfig(level=logging.INFO, format='%(asctime)s %(levelname)s %(message)s')
 
 
@@ -25,7 +26,7 @@ class AbstractApi(ABC):
 class HeadHunterAPI(AbstractApi):
     """Класс для работы с API hh.ru"""
 
-    __BASE_URL = "https//api.hh.ru/vacancies"
+    __BASE_URL = "https://api.hh.ru/vacancies"
 
     def _connect(self) -> requests.Response:
         """ Метод подключается к hh.ru и проверяет статус"""
@@ -34,6 +35,7 @@ class HeadHunterAPI(AbstractApi):
         response = requests.get(self.__BASE_URL)
         if response.status_code != 200:
             logging.error(f"Ошибка подключения: {response.status_code}")
+            raise ConnectionError(f"Ошибка подключения: {response.status_code}")
         logging.info("Успешное подключение к API hh.ru")
         return response
 

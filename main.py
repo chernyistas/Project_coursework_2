@@ -1,63 +1,62 @@
-import requests
+import logging
 
 
-class HH(Parser):
-    """
-    Класс для работы с API HeadHunter
-    Класс Parser является родительским классом, который вам необходимо реализовать
-    """
+from src.api import HeadHunterAPI
+from src.vacancy import Vacancy
+from src.utils import filter_vacancies, get_vacancies_by_salary, sort_vacancies, get_top_vacancies, print_vacancies
+from src.storage import JSONSaver
 
-    def __init__(self, file_worker):
-        self.url = 'https://api.hh.ru/vacancies'
-        self.headers = {'User-Agent': 'HH-User-Agent'}
-        self.params = {'text': '', 'page': 0, 'per_page': 100}
-        self.vacancies = []
-        super().__init__(file_worker)
+logging.basicConfig(level=logging.INFO, format="%(asctime)s %(levelname)s %(message)s")
 
-    def load_vacancies(self, keyword):
-        self.params['text'] = keyword
-        while self.params.get('page') != 20:
-            response = requests.get(self.url, headers=self.headers, params=self.params)
-            vacancies = response.json()['items']
-            self.vacancies.extend(vacancies)
-            self.params['page'] += 1
-
-
-
-
-# Создание экземпляра класса для работы с API сайтов с вакансиями
-hh_api = HeadHunterAPI()
-
-# Получение вакансий с hh.ru в формате JSON
-hh_vacancies = hh_api.get_vacancies("Python")
-
-# Преобразование набора данных из JSON в список объектов
-vacancies_list = Vacancy.cast_to_object_list(hh_vacancies)
-
-# Пример работы контструктора класса с одной вакансией
-vacancy = Vacancy("Python Developer", "<https://hh.ru/vacancy/123456>", "100 000-150 000 руб.", "Требования: опыт работы от 3 лет...")
-
-# Сохранение информации о вакансиях в файл
-json_saver = JSONSaver()
-json_saver.add_vacancy(vacancy)
-json_saver.delete_vacancy(vacancy)
-
-# Функция для взаимодействия с пользователем
 def user_interaction():
-    platforms = ["HeadHunter"]
-    search_query = input("Введите поисковый запрос: ")
-    top_n = int(input("Введите количество вакансий для вывода в топ N: "))
-    filter_words = input("Введите ключевые слова для фильтрации вакансий: ").split()
-    salary_range = input("Введите диапазон зарплат: ") # Пример: 100000 - 150000
+    """Метод, который взаимодействует с пользователем через информационный интерфейс"""
 
-    filtered_vacancies = filter_vacancies(vacancies_list, filter_words)
+    logging.info("Старт приложения")
+    hh_api = HeadHunterAPI()
+    saver = JSONSaver()
 
-    ranged_vacancies = get_vacancies_by_salary(filtered_vacancies, salary_range)
+    while True:
+        print("\n1. Поиск и добавление вакансий\n2. Вывести топ N по зарплате\n3. Фильтрация по ключу"
+              "\n4. Удалить вакансию\n0. Выйти\n")
+        cmd = input("Выберите действие: ").strip()
 
-    sorted_vacancies = sort_vacancies(ranged_vacancies)
-    top_vacancies = get_top_vacancies(sorted_vacancies, top_n)
-    print_vacancies(top_vacancies)
+        if cmd == "1":
+            search_query = input("Введите поисковый запрос: ")
+            hh_vacancies = hh_api.get_vacancies(search_query)
+            vac_objs = Vacancy.cast_to_object_list(hh_vacancies)
+            for vac in vac_objs:
+                saver.add_vacancy(vac)
+            print(f"Добавлено {len(vac_objs)} новых вакансий.")
 
+        elif cmd == "2":
+            n = int(input("Введите количество топовых вакансий: "))
+            all_vacancies = saver.get_vacancies()
+            sorted_vacancies = sort_vacancies(all_vacancies)
+            top_vacancies = get_top_vacancies(sorted_vacancies, n)
+            print_vacancies(top_vacancies)
+
+        elif cmd == "3":
+            keywords = input("Введите ключевые слова через пробел: ").split()
+            all_vacancies = saver.get_vacancies()
+            filtered = filter_vacancies(all_vacancies, keywords)
+            print_vacancies(filtered)
+
+        elif cmd == "4":
+            url = input("Введите url вакансии для удаления: ").strip()
+            all_vacancies = saver.get_vacancies()
+            found = [v for v in all_vacancies if v.url == url]
+            if found:
+                saver.delete_vacancy(found[0])
+                print("Вакансия удалена.")
+            else:
+                print("Вакансия не найдена.")
+
+        elif cmd == "0":
+            print("Выход.")
+            break
+
+        else:
+            print("Некорректный ввод.")
 
 if __name__ == "__main__":
     user_interaction()

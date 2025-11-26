@@ -2,7 +2,7 @@ import json
 import logging
 import os
 from typing import List, Optional, Any
-from vacancy import Vacancy
+from src.vacancy import Vacancy
 from abc import ABC, abstractmethod
 
 logging.basicConfig(level=logging.INFO, format="%(asctime)s %(levelname)s %(message)s")

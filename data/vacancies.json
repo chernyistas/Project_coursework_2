@@ -1,1 +1,596 @@
-{"items":[{"id":"93353083","premium":false,"name":"Тестировщик комфорта квартир","department":null,"has_test":false,"response_letter_required":false,"area":{"id":"26","name":"Воронеж","url":"https://api.hh.ru/areas/26"},"salary":{"from":350000,"to":450000,"currency":"RUR","gross":false},"type":{"id":"open","name":"Открытая"},"address":null,"response_url":null,"sort_point_distance":null,"published_at":"2024-02-16T14:58:28+0300","created_at":"2024-02-16T14:58:28+0300","archived":false,"apply_alternate_url":"https://hh.ru/applicant/vacancy_response?vacancyId=93353083","branding":{"type":"CONSTRUCTOR","tariff":"BASIC"},"show_logo_in_search":true,"insider_interview":null,"url":"https://api.hh.ru/vacancies/93353083?host=hh.ru","alternate_url":"https://hh.ru/vacancy/93353083","relations":[],"employer":{"id":"3499705","name":"Специализированный застройщик BM GROUP","url":"https://api.hh.ru/employers/3499705","alternate_url":"https://hh.ru/employer/3499705","logo_urls":{"original":"https://hhcdn.ru/employer-logo-original/1214854.png","240":"https://hhcdn.ru/employer-logo/6479866.png","90":"https://hhcdn.ru/employer-logo/6479865.png"},"vacancies_url":"https://api.hh.ru/vacancies?employer_id=3499705","accredited_it_employer":false,"trusted":true},"snippet":{"requirement":"Занимать активную жизненную позицию, уметь активно танцевать и громко петь. Обладать навыками коммуникации, чтобы налаживать добрососедские отношения. Обладать системным мышлением...","responsibility":"Оценивать вид из окна: встречать рассветы на кухне, и провожать алые закаты в спальне. Оценивать инфраструктуру района: ежедневно ходить на..."},"contacts":null,"schedule":{"id":"flexible","name":"Гибкий график"},"working_days":[],"working_time_intervals":[],"working_time_modes":[],"accept_temporary":false,"professional_roles":[{"id":"107","name":"Руководитель проектов"}],"accept_incomplete_resumes":false,"experience":{"id":"noExperience","name":"Нет опыта"},"employment":{"id":"full","name":"Полная занятость"},"adv_response_url":null,"is_adv_vacancy":false,"adv_context":null},{"id":"92223756","premium":false,"name":"Удаленный диспетчер чатов (в Яндекс)","department":null,"has_test":false,"response_letter_required":false,"area":{"id":"113","name":"Россия","url":"https://api.hh.ru/areas/113"},"salary":{"from":30000,"to":44000,"currency":"RUR","gross":true},"type":{"id":"open","name":"Открытая"},"address":null,"response_url":null,"sort_point_distance":null,"published_at":"2024-01-25T17:37:04+0300","created_at":"2024-01-25T17:37:04+0300","archived":false,"apply_alternate_url":"https://hh.ru/applicant/vacancy_response?vacancyId=92223756","show_logo_in_search":null,"insider_interview":null,"url":"https://api.hh.ru/vacancies/92223756?host=hh.ru","alternate_url":"https://hh.ru/vacancy/92223756","relations":[],"employer":{"id":"9498120","name":"Яндекс Команда для бизнеса","url":"https://api.hh.ru/employers/9498120","alternate_url":"https://hh.ru/employer/9498120","logo_urls":{"original":"https://hhcdn.ru/employer-logo-original/1121425.jpg","90":"https://hhcdn.ru/employer-logo/6106293.jpeg","240":"https://hhcdn.ru/employer-logo/6106294.jpeg"},"vacancies_url":"https://api.hh.ru/vacancies?employer_id=9498120","accredited_it_employer":false,"trusted":true},"snippet":{"requirement":"Способен работать в команде. Способен принимать решения самостоятельно. Готов учиться и узнавать новое. Опыт работы в колл-центре или службе...","responsibility":"Работать с клиентами или партнерами для решения разнообразных ситуаций. Совершать звонки по их обращениям и давать письменные ответы. "},"contacts":null,"schedule":{"id":"remote","name":"Удаленная работа"},"working_days":[],"working_time_intervals":[],"working_time_modes":[{"id":"start_after_sixteen","name":"Можно начинать работать после 16:00"}],"accept_temporary":false,"professional_roles":[{"id":"40","name":"Другое"}],"accept_incomplete_resumes":true,"experience":{"id":"noExperience","name":"Нет опыта"},"employment":{"id":"full","name":"Полная занятость"},"adv_response_url":null,"is_adv_vacancy":false,"adv_context":null},{"id":"92223870","premium":false,"name":"Удаленный специалист службы поддержки (в Яндекс)","department":null,"has_test":false,"response_letter_required":false,"area":{"id":"113","name":"Россия","url":"https://api.hh.ru/areas/113"},"salary":{"from":30000,"to":44000,"currency":"RUR","gross":true},"type":{"id":"open","name":"Открытая"},"address":null,"response_url":null,"sort_point_distance":null,"published_at":"2024-01-25T17:39:01+0300","created_at":"2024-01-25T17:39:01+0300","archived":false,"apply_alternate_url":"https://hh.ru/applicant/vacancy_response?vacancyId=92223870","show_logo_in_search":null,"insider_interview":null,"url":"https://api.hh.ru/vacancies/92223870?host=hh.ru","alternate_url":"https://hh.ru/vacancy/92223870","relations":[],"employer":{"id":"9498120","name":"Яндекс Команда для бизнеса","url":"https://api.hh.ru/employers/9498120","alternate_url":"https://hh.ru/employer/9498120","logo_urls":{"original":"https://hhcdn.ru/employer-logo-original/1121425.jpg","90":"https://hhcdn.ru/employer-logo/6106293.jpeg","240":"https://hhcdn.ru/employer-logo/6106294.jpeg"},"vacancies_url":"https://api.hh.ru/vacancies?employer_id=9498120","accredited_it_employer":false,"trusted":true},"snippet":{"requirement":"Способен работать в команде. Способен принимать решения самостоятельно. Готов учиться и узнавать новое. Опыт работы в колл-центре или службе...","responsibility":"Работать с клиентами или партнерами для решения разнообразных ситуаций. Совершать звонки по их обращениям и давать письменные ответы. "},"contacts":null,"schedule":{"id":"remote","name":"Удаленная работа"},"working_days":[],"working_time_intervals":[],"working_time_modes":[{"id":"start_after_sixteen","name":"Можно начинать работать после 16:00"}],"accept_temporary":false,"professional_roles":[{"id":"40","name":"Другое"}],"accept_incomplete_resumes":true,"experience":{"id":"noExperience","name":"Нет опыта"},"employment":{"id":"full","name":"Полная занятость"},"adv_response_url":null,"is_adv_vacancy":false,"adv_context":null},{"id":"92752367","premium":false,"name":"Менеджер по продажам недвижимости","department":null,"has_test":false,"response_letter_required":false,"area":{"id":"159","name":"Астана","url":"https://api.hh.ru/areas/159"},"salary":{"from":500000,"to":1000000,"currency":"KZT","gross":true},"type":{"id":"open","name":"Открытая"},"address":null,"response_url":null,"sort_point_distance":null,"published_at":"2024-02-06T11:30:02+0300","created_at":"2024-02-06T11:30:02+0300","archived":false,"apply_alternate_url":"https://hh.ru/applicant/vacancy_response?vacancyId=92752367","show_logo_in_search":null,"insider_interview":null,"url":"https://api.hh.ru/vacancies/92752367?host=hh.ru","alternate_url":"https://hh.ru/vacancy/92752367","relations":[],"employer":{"id":"1418491","name":"Витрина Недвижимости","url":"https://api.hh.ru/employers/1418491","alternate_url":"https://hh.ru/employer/1418491","logo_urls":{"240":"https://hhcdn.ru/employer-logo/2935217.jpeg","90":"https://hhcdn.ru/employer-logo/2935216.jpeg","original":"https://hhcdn.ru/employer-logo-original/623516.jpg"},"vacancies_url":"https://api.hh.ru/vacancies?employer_id=1418491","accredited_it_employer":false,"trusted":true},"snippet":{"requirement":"Отличные коммуникативные навыки, способность найти подход к каждому клиенту. Навыки проведения деловых переговоров. Наличие амбициозных целей и успешный опыт их...","responsibility":"Анализ рынка и объектов недвижимости. Предварительная оценка недвижимости. Подбор объектов недвижимости в интересах клиентов. Консультирование клиентов по купле-продаже объектов..."},"contacts":null,"schedule":{"id":"fullDay","name":"Полный день"},"working_days":[],"working_time_intervals":[],"working_time_modes":[],"accept_temporary":false,"professional_roles":[{"id":"6","name":"Агент по недвижимости"}],"accept_incomplete_resumes":false,"experience":{"id":"noExperience","name":"Нет опыта"},"employment":{"id":"full","name":"Полная занятость"},"adv_response_url":null,"is_adv_vacancy":false,"adv_context":null},{"id":"92223673","premium":false,"name":"Менеджер чатов, удалённо (в Яндекс)","department":null,"has_test":false,"response_letter_required":false,"area":{"id":"113","name":"Россия","url":"https://api.hh.ru/areas/113"},"salary":{"from":30000,"to":44000,"currency":"RUR","gross":true},"type":{"id":"open","name":"Открытая"},"address":null,"response_url":null,"sort_point_distance":null,"published_at":"2024-01-25T17:34:32+0300","created_at":"2024-01-25T17:34:32+0300","archived":false,"apply_alternate_url":"https://hh.ru/applicant/vacancy_response?vacancyId=92223673","show_logo_in_search":null,"insider_interview":null,"url":"https://api.hh.ru/vacancies/92223673?host=hh.ru","alternate_url":"https://hh.ru/vacancy/92223673","relations":[],"employer":{"id":"9498120","name":"Яндекс Команда для бизнеса","url":"https://api.hh.ru/employers/9498120","alternate_url":"https://hh.ru/employer/9498120","logo_urls":{"original":"https://hhcdn.ru/employer-logo-original/1121425.jpg","90":"https://hhcdn.ru/employer-logo/6106293.jpeg","240":"https://hhcdn.ru/employer-logo/6106294.jpeg"},"vacancies_url":"https://api.hh.ru/vacancies?employer_id=9498120","accredited_it_employer":false,"trusted":true},"snippet":{"requirement":"Способен работать в команде. Способен принимать решения самостоятельно. Готов учиться и узнавать новое. Опыт работы в колл-центре или службе...","responsibility":"Работать с клиентами или партнерами для решения разнообразных ситуаций. Совершать звонки по их обращениям и давать письменные ответы. "},"contacts":null,"schedule":{"id":"remote","name":"Удаленная работа"},"working_days":[],"working_time_intervals":[],"working_time_modes":[{"id":"start_after_sixteen","name":"Можно начинать работать после 16:00"}],"accept_temporary":false,"professional_roles":[{"id":"40","name":"Другое"}],"accept_incomplete_resumes":true,"experience":{"id":"noExperience","name":"Нет опыта"},"employment":{"id":"full","name":"Полная занятость"},"adv_response_url":null,"is_adv_vacancy":false,"adv_context":null},{"id":"93209001","premium":false,"name":"Бортпроводник","department":null,"has_test":false,"response_letter_required":false,"area":{"id":"2759","name":"Ташкент","url":"https://api.hh.ru/areas/2759"},"salary":null,"type":{"id":"open","name":"Открытая"},"address":null,"response_url":null,"sort_point_distance":null,"published_at":"2024-02-14T12:32:06+0300","created_at":"2024-02-14T12:32:06+0300","archived":false,"apply_alternate_url":"https://hh.ru/applicant/vacancy_response?vacancyId=93209001","show_logo_in_search":null,"insider_interview":null,"url":"https://api.hh.ru/vacancies/93209001?host=hh.ru","alternate_url":"https://hh.ru/vacancy/93209001","relations":[],"employer":{"id":"4621904","name":"«MY FREIGHTER» LLC","url":"https://api.hh.ru/employers/4621904","alternate_url":"https://hh.ru/employer/4621904","logo_urls":{"90":"https://hhcdn.ru/employer-logo/3387665.png","240":"https://hhcdn.ru/employer-logo/3387666.png","original":"https://hhcdn.ru/employer-logo-original/736672.png"},"vacancies_url":"https://api.hh.ru/vacancies?employer_id=4621904","accredited_it_employer":false,"trusted":true},"snippet":{"requirement":"Образование: среднее полное (11 классов), среднее специальное, высшее. Обязательное владение узбекским, русским и английским языками. Готовность работать согласно графику полетов. ","responsibility":"Обеспечение безопасности на борту. Встреча и размещение пассажиров на борту. Инструктаж перед взлетом. Организация питания пассажиров во время полета. "},"contacts":null,"schedule":{"id":"fullDay","name":"Полный день"},"working_days":[],"working_time_intervals":[],"working_time_modes":[],"accept_temporary":false,"professional_roles":[{"id":"159","name":"Бортпроводник"}],"accept_incomplete_resumes":false,"experience":{"id":"noExperience","name":"Нет опыта"},"employment":{"id":"full","name":"Полная занятость"},"adv_response_url":null,"is_adv_vacancy":false,"adv_context":null},{"id":"92195003","premium":false,"name":"Наборщик текста/верстальщик","department":null,"has_test":false,"response_letter_required":false,"area":{"id":"1002","name":"Минск","url":"https://api.hh.ru/areas/1002"},"salary":{"from":800,"to":null,"currency":"BYR","gross":false},"type":{"id":"open","name":"Открытая"},"address":null,"response_url":null,"sort_point_distance":null,"published_at":"2024-01-25T11:58:58+0300","created_at":"2024-01-25T11:58:58+0300","archived":false,"apply_alternate_url":"https://hh.ru/applicant/vacancy_response?vacancyId=92195003","show_logo_in_search":null,"insider_interview":null,"url":"https://api.hh.ru/vacancies/92195003?host=hh.ru","alternate_url":"https://hh.ru/vacancy/92195003","relations":[],"employer":{"id":"3814315","name":"ПроТекст","url":"https://api.hh.ru/employers/3814315","alternate_url":"https://hh.ru/employer/3814315","logo_urls":{"240":"https://hhcdn.ru/employer-logo/3116885.jpeg","90":"https://hhcdn.ru/employer-logo/3116884.jpeg","original":"https://hhcdn.ru/employer-logo-original/668938.jpg"},"vacancies_url":"https://api.hh.ru/vacancies?employer_id=3814315","accredited_it_employer":false,"trusted":true},"snippet":{"requirement":"уверенное владение ПЭВМ (программы OCR - FineReader и аналоги, глубокое знание функций MS Word - Вставка, Макет, Конструктор таблиц). - возможность и готовность...","responsibility":"выполнение распознания документов в формате ,pdf, .jpg, .png на русском / английском языке, макетирование и форматирование в MS Word. - "},"contacts":null,"schedule":{"id":"remote","name":"Удаленная работа"},"working_days":[],"working_time_intervals":[{"id":"from_four_to_six_hours_in_a_day","name":"Можно работать сменами по 4–6 часов в день"}],"working_time_modes":[{"id":"start_after_sixteen","name":"Можно начинать работать после 16:00"}],"accept_temporary":false,"professional_roles":[{"id":"84","name":"Оператор ПК, оператор базы данных"}],"accept_incomplete_resumes":false,"experience":{"id":"noExperience","name":"Нет опыта"},"employment":{"id":"part","name":"Частичная занятость"},"adv_response_url":null,"is_adv_vacancy":false,"adv_context":null},{"id":"93166058","premium":false,"name":"Менеджер по продажам (МЕРКАТОР)","department":null,"has_test":false,"response_letter_required":false,"area":{"id":"88","name":"Казань","url":"https://api.hh.ru/areas/88"},"salary":{"from":160000,"to":null,"currency":"RUR","gross":true},"type":{"id":"open","name":"Открытая"},"address":{"city":"Казань","street":"Приволжский район, жилой массив Отары, Дорожная улица","building":"1к10","lat":55.724135,"lng":49.098078,"description":null,"raw":"Казань, Приволжский район, жилой массив Отары, Дорожная улица, 1к10","metro":null,"metro_stations":[],"id":"15161689"},"response_url":null,"sort_point_distance":null,"published_at":"2024-02-13T19:21:57+0300","created_at":"2024-02-13T19:21:57+0300","archived":false,"apply_alternate_url":"https://hh.ru/applicant/vacancy_response?vacancyId=93166058","show_logo_in_search":null,"insider_interview":null,"url":"https://api.hh.ru/vacancies/93166058?host=hh.ru","alternate_url":"https://hh.ru/vacancy/93166058","relations":[],"employer":{"id":"1060821","name":"Рост Развитие Решение","url":"https://api.hh.ru/employers/1060821","alternate_url":"https://hh.ru/employer/1060821","logo_urls":{"90":"https://hhcdn.ru/employer-logo/874868.jpeg","240":"https://hhcdn.ru/employer-logo/874869.jpeg","original":"https://hhcdn.ru/employer-logo-original/85446.jpg"},"vacancies_url":"https://api.hh.ru/vacancies?employer_id=1060821","accredited_it_employer":false,"trusted":true},"snippet":{"requirement":"Опыт в продажах. Опыт работы с клиентами. Умение проводить переговоры. Мобильность.","responsibility":"Расширение клиентской базы. Проведение презентаций и переговоров. Заключение договоров. Отчетность в установленной форме."},"contacts":null,"schedule":{"id":"fullDay","name":"Полный день"},"working_days":[],"working_time_intervals":[],"working_time_modes":[],"accept_temporary":false,"professional_roles":[{"id":"70","name":"Менеджер по продажам, менеджер по работе с клиентами"}],"accept_incomplete_resumes":false,"experience":{"id":"between1And3","name":"От 1 года до 3 лет"},"employment":{"id":"full","name":"Полная занятость"},"adv_response_url":null,"is_adv_vacancy":false,"adv_context":null},{"id":"91178034","premium":false,"name":"Оператор call-центра","department":null,"has_test":false,"response_letter_required":false,"area":{"id":"2759","name":"Ташкент","url":"https://api.hh.ru/areas/2759"},"salary":{"from":3500000,"to":20000000,"currency":"UZS","gross":true},"type":{"id":"open","name":"Открытая"},"address":null,"response_url":null,"sort_point_distance":null,"published_at":"2024-01-25T10:10:00+0300","created_at":"2024-01-25T10:10:00+0300","archived":false,"apply_alternate_url":"https://hh.ru/applicant/vacancy_response?vacancyId=91178034","insider_interview":null,"url":"https://api.hh.ru/vacancies/91178034?host=hh.ru","alternate_url":"https://hh.ru/vacancy/91178034","relations":[],"employer":{"id":"9522635","name":"IN-FIN-STROY INVEST","url":"https://api.hh.ru/employers/9522635","alternate_url":"https://hh.ru/employer/9522635","logo_urls":null,"vacancies_url":"https://api.hh.ru/vacancies?employer_id=9522635","accredited_it_employer":false,"trusted":true},"snippet":{"requirement":"Пожалуйста ознакомьтесь внимательно. Грамотная речь. Знание узбекского и русского языков. Отличное знание ПК. Коммуникабельность. Эмоциональная устойчивость. Вежливость, грамотность, любознательность, ответственность...","responsibility":"Прием и обработка входящих звонков и исходящих звонков. Консультирование клиентов по телефону. Предоставление клиентам информации о компании. Осуществление исходящих информационных..."},"contacts":null,"schedule":{"id":"fullDay","name":"Полный день"},"working_days":[],"working_time_intervals":[],"working_time_modes":[],"accept_temporary":false,"professional_roles":[{"id":"83","name":"Оператор call-центра, специалист контактного центра"}],"accept_incomplete_resumes":true,"experience":{"id":"between1And3","name":"От 1 года до 3 лет"},"employment":{"id":"full","name":"Полная занятость"},"adv_response_url":null,"is_adv_vacancy":false,"adv_context":null},{"id":"92818620","premium":false,"name":"Менеджер по работе с клиентами","department":null,"has_test":false,"response_letter_required":false,"area":{"id":"159","name":"Астана","url":"https://api.hh.ru/areas/159"},"salary":{"from":418500,"to":1000000,"currency":"KZT","gross":true},"type":{"id":"open","name":"Открытая"},"address":{"city":"Астана","street":"улица Анет баба","building":"5","lat":51.133893,"lng":71.382854,"description":null,"raw":"Астана, улица Анет баба, 5","metro":null,"metro_stations":[],"id":"14393855"},"response_url":null,"sort_point_distance":null,"published_at":"2024-02-07T11:34:26+0300","created_at":"2024-02-07T11:34:26+0300","archived":false,"apply_alternate_url":"https://hh.ru/applicant/vacancy_response?vacancyId=92818620","insider_interview":null,"url":"https://api.hh.ru/vacancies/92818620?host=hh.ru","alternate_url":"https://hh.ru/vacancy/92818620","relations":[],"employer":{"id":"10013830","name":"Агентство Недвижимости Абажур","url":"https://api.hh.ru/employers/10013830","alternate_url":"https://hh.ru/employer/10013830","logo_urls":null,"vacancies_url":"https://api.hh.ru/vacancies?employer_id=10013830","accredited_it_employer":false,"trusted":true},"snippet":{"requirement":"Не важно есть опыт у тебя или нет, я могу точно сказать, что ты сможешь зарабатывать в этой сфере!!! ","responsibility":null},"contacts":null,"schedule":{"id":"fullDay","name":"Полный день"},"working_days":[],"working_time_intervals":[],"working_time_modes":[],"accept_temporary":false,"professional_roles":[{"id":"70","name":"Менеджер по продажам, менеджер по работе с клиентами"}],"accept_incomplete_resumes":false,"experience":{"id":"between1And3","name":"От 1 года до 3 лет"},"employment":{"id":"full","name":"Полная занятость"},"adv_response_url":null,"is_adv_vacancy":false,"adv_context":null},{"id":"93119114","premium":false,"name":"Стажер","department":null,"has_test":false,"response_letter_required":false,"area":{"id":"2759","name":"Ташкент","url":"https://api.hh.ru/areas/2759"},"salary":{"from":2000000,"to":2000000,"currency":"UZS","gross":false},"type":{"id":"open","name":"Открытая"},"address":{"city":"Ташкент","street":"улица Мукими","building":"166","lat":41.295692,"lng":69.218247,"description":null,"raw":"Ташкент, улица Мукими, 166","metro":null,"metro_stations":[],"id":"5906580"},"response_url":null,"sort_point_distance":null,"published_at":"2024-02-13T08:39:43+0300","created_at":"2024-02-13T08:39:43+0300","archived":false,"apply_alternate_url":"https://hh.ru/applicant/vacancy_response?vacancyId=93119114","insider_interview":null,"url":"https://api.hh.ru/vacancies/93119114?host=hh.ru","alternate_url":"https://hh.ru/vacancy/93119114","relations":[],"employer":{"id":"3927191","name":"Научно информационный центр новых технологий при ГНК РУз","url":"https://api.hh.ru/employers/3927191","alternate_url":"https://hh.ru/employer/3927191","logo_urls":null,"vacancies_url":"https://api.hh.ru/vacancies?employer_id=3927191","accredited_it_employer":false,"trusted":true},"snippet":{"requirement":"Если вы , в том числе, студент по направлению IT или начинающий специалист, окончивший вуз, Вы можете принять участие в отборе...","responsibility":"Комплексная оценка будет проводиться в форме собеседования. Стажировка по направлениям Java-backend и Mobile разработчик (flutter). Участие в непосредственной работе..."},"contacts":null,"schedule":{"id":"fullDay","name":"Полный день"},"working_days":[],"working_time_intervals":[],"working_time_modes":[],"accept_temporary":false,"professional_roles":[{"id":"96","name":"Программист, разработчик"}],"accept_incomplete_resumes":false,"experience":{"id":"noExperience","name":"Нет опыта"},"employment":{"id":"probation","name":"Стажировка"},"adv_response_url":null,"is_adv_vacancy":false,"adv_context":null},{"id":"92405436","premium":false,"name":"Хозработник","department":null,"has_test":false,"response_letter_required":false,"area":{"id":"2","name":"Санкт-Петербург","url":"https://api.hh.ru/areas/2"},"salary":{"from":65000,"to":70000,"currency":"RUR","gross":false},"type":{"id":"open","name":"Открытая"},"address":{"city":"Санкт-Петербург","street":"Бармалеева улица","building":"11","lat":59.964485,"lng":30.306571,"description":null,"raw":"Санкт-Петербург, Бармалеева улица, 11","metro":null,"metro_stations":[],"id":"11151437"},"response_url":null,"sort_point_distance":null,"published_at":"2024-01-30T12:59:55+0300","created_at":"2024-01-30T12:59:55+0300","archived":false,"apply_alternate_url":"https://hh.ru/applicant/vacancy_response?vacancyId=92405436","insider_interview":null,"url":"https://api.hh.ru/vacancies/92405436?host=hh.ru","alternate_url":"https://hh.ru/vacancy/92405436","relations":[],"employer":{"id":"3474160","name":"Нордстрой","url":"https://api.hh.ru/employers/3474160","alternate_url":"https://hh.ru/employer/3474160","logo_urls":null,"vacancies_url":"https://api.hh.ru/vacancies?employer_id=3474160","accredited_it_employer":false,"trusted":true},"snippet":{"requirement":null,"responsibility":"Cезонныe pаботы: убоpкa cнега, лиcтьев, кoшeниe травы, мытьe дoрoжек. Убoрка мусоpа. Прoтиpание пыли, уборка в бapбекю, в бecедке. "},"contacts":null,"schedule":{"id":"fullDay","name":"Полный день"},"working_days":[],"working_time_intervals":[],"working_time_modes":[],"accept_temporary":false,"professional_roles":[{"id":"32","name":"Дворник"}],"accept_incomplete_resumes":false,"experience":{"id":"between1And3","name":"От 1 года до 3 лет"},"employment":{"id":"full","name":"Полная занятость"},"adv_response_url":null,"is_adv_vacancy":false,"adv_context":null},{"id":"87122346","premium":false,"name":"Продавец-консультант","department":null,"has_test":false,"response_letter_required":false,"area":{"id":"1","name":"Москва","url":"https://api.hh.ru/areas/1"},"salary":{"from":70000,"to":110000,"currency":"RUR","gross":true},"type":{"id":"open","name":"Открытая"},"address":null,"response_url":null,"sort_point_distance":null,"published_at":"2024-02-20T11:00:11+0300","created_at":"2024-02-20T11:00:11+0300","archived":false,"apply_alternate_url":"https://hh.ru/applicant/vacancy_response?vacancyId=87122346","branding":{"type":"MAKEUP","tariff":null},"show_logo_in_search":true,"insider_interview":null,"url":"https://api.hh.ru/vacancies/87122346?host=hh.ru","alternate_url":"https://hh.ru/vacancy/87122346","relations":[],"employer":{"id":"2524051","name":"Магазины Ароматный Мир формата food & wine","url":"https://api.hh.ru/employers/2524051","alternate_url":"https://hh.ru/employer/2524051","logo_urls":{"90":"https://hhcdn.ru/employer-logo/3752459.png","240":"https://hhcdn.ru/employer-logo/3752460.png","original":"https://hhcdn.ru/employer-logo-original/827894.png"},"vacancies_url":"https://api.hh.ru/vacancies?employer_id=2524051","accredited_it_employer":false,"trusted":true},"snippet":{"requirement":"Опыт работы не требуется, мы всему научим! Опыт работы в сетевых розничных магазинах приветствуется.","responsibility":"Консультирование покупателей по ассортименту в магазине. Работа на современной и простой кассе. Выкладка продукции, оформление торгового зала рекламными материалами. "},"contacts":null,"schedule":{"id":"shift","name":"Сменный график"},"working_days":[],"working_time_intervals":[],"working_time_modes":[],"accept_temporary":false,"professional_roles":[{"id":"97","name":"Продавец-консультант, продавец-кассир"}],"accept_incomplete_resumes":true,"experience":{"id":"noExperience","name":"Нет опыта"},"employment":{"id":"full","name":"Полная занятость"},"adv_response_url":null,"is_adv_vacancy":false,"adv_context":null},{"id":"77069438","premium":false,"name":"Менеджер по туризму","department":null,"has_test":false,"response_letter_required":false,"area":{"id":"160","name":"Алматы","url":"https://api.hh.ru/areas/160"},"salary":{"from":180000,"to":200000,"currency":"KZT","gross":false},"type":{"id":"open","name":"Открытая"},"address":null,"response_url":null,"sort_point_distance":null,"published_at":"2024-02-02T05:38:18+0300","created_at":"2024-02-02T05:38:18+0300","archived":false,"apply_alternate_url":"https://hh.ru/applicant/vacancy_response?vacancyId=77069438","show_logo_in_search":null,"insider_interview":null,"url":"https://api.hh.ru/vacancies/77069438?host=hh.ru","alternate_url":"https://hh.ru/vacancy/77069438","relations":[],"employer":{"id":"686727","name":"NurAi & Co","url":"https://api.hh.ru/employers/686727","alternate_url":"https://hh.ru/employer/686727","logo_urls":{"240":"https://hhcdn.ru/employer-logo/1107573.png","90":"https://hhcdn.ru/employer-logo/1107572.png","original":"https://hhcdn.ru/employer-logo-original/152128.png"},"vacancies_url":"https://api.hh.ru/vacancies?employer_id=686727","accredited_it_employer":false,"trusted":true},"snippet":{"requirement":"умение урегулировать форс-мажорные ситуации. - умение работать в системе Битрикс для ведения процесса бронирования. Требования: - опыт работы в туризме обязателен. - ","responsibility":"консультирование клиентов по туристическим продуктам в офисе и по телефону. - обработка входящих заявок и ведение диалога с туристами. - "},"contacts":null,"schedule":{"id":"fullDay","name":"Полный день"},"working_days":[],"working_time_intervals":[],"working_time_modes":[],"accept_temporary":false,"professional_roles":[{"id":"40","name":"Другое"}],"accept_incomplete_resumes":false,"experience":{"id":"between1And3","name":"От 1 года до 3 лет"},"employment":{"id":"full","name":"Полная занятость"},"adv_response_url":null,"is_adv_vacancy":false,"adv_context":null},{"id":"92210019","premium":false,"name":"Junior back-end developer","department":null,"has_test":false,"response_letter_required":false,"area":{"id":"2759","name":"Ташкент","url":"https://api.hh.ru/areas/2759"},"salary":{"from":4000000,"to":8000000,"currency":"UZS","gross":true},"type":{"id":"open","name":"Открытая"},"address":null,"response_url":null,"sort_point_distance":null,"published_at":"2024-01-25T14:24:55+0300","created_at":"2024-01-25T14:24:55+0300","archived":false,"apply_alternate_url":"https://hh.ru/applicant/vacancy_response?vacancyId=92210019","insider_interview":null,"url":"https://api.hh.ru/vacancies/92210019?host=hh.ru","alternate_url":"https://hh.ru/vacancy/92210019","relations":[],"employer":{"id":"9035038","name":"OOO UZGPS","url":"https://api.hh.ru/employers/9035038","alternate_url":"https://hh.ru/employer/9035038","logo_urls":null,"vacancies_url":"https://api.hh.ru/vacancies?employer_id=9035038","accredited_it_employer":false,"trusted":true},"snippet":{"requirement":"Высшее профильное образование. Свободное владение русским и узбекским языками. Java Core. Spring/Spring Boot. Знание ООП и структуры данных. ","responsibility":"Разрабатывать новые и поддерживать существующие продукты компании. Интегрировать сервисы и API. Написание микросервисов. Интеграции с внешними сервисами по REST, WebSocket. "},"contacts":null,"schedule":{"id":"fullDay","name":"Полный день"},"working_days":[],"working_time_intervals":[],"working_time_modes":[],"accept_temporary":false,"professional_roles":[{"id":"96","name":"Программист, разработчик"}],"accept_incomplete_resumes":false,"experience":{"id":"noExperience","name":"Нет опыта"},"employment":{"id":"full","name":"Полная занятость"},"adv_response_url":null,"is_adv_vacancy":false,"adv_context":null},{"id":"93523045","premium":false,"name":"Менеджер по сопровождению закупок (контрольно-измерительное оборудование)","department":null,"has_test":false,"response_letter_required":false,"area":{"id":"1","name":"Москва","url":"https://api.hh.ru/areas/1"},"salary":{"from":90000,"to":null,"currency":"RUR","gross":false},"type":{"id":"open","name":"Открытая"},"address":{"city":null,"street":null,"building":null,"lat":null,"lng":null,"description":null,"raw":null,"metro":{"station_name":"Полежаевская","line_name":"Таганско-Краснопресненская","station_id":"7.114","line_id":"7","lat":55.777201,"lng":37.517895},"metro_stations":[{"station_name":"Полежаевская","line_name":"Таганско-Краснопресненская","station_id":"7.114","line_id":"7","lat":55.777201,"lng":37.517895},{"station_name":"Хорошево","line_name":"МЦК","station_id":"95.539","line_id":"95","lat":55.777222,"lng":37.507222},{"station_name":"Хорошевская","line_name":"Большая кольцевая линия","station_id":"97.601","line_id":"97","lat":55.77643,"lng":37.51981}],"id":"14977439"},"response_url":null,"sort_point_distance":null,"published_at":"2024-02-20T11:07:12+0300","created_at":"2024-02-20T11:07:12+0300","archived":false,"apply_alternate_url":"https://hh.ru/applicant/vacancy_response?vacancyId=93523045","show_logo_in_search":null,"insider_interview":null,"url":"https://api.hh.ru/vacancies/93523045?host=hh.ru","alternate_url":"https://hh.ru/vacancy/93523045","relations":[],"employer":{"id":"827187","name":"BY business group","url":"https://api.hh.ru/employers/827187","alternate_url":"https://hh.ru/employer/827187","logo_urls":{"original":"https://hhcdn.ru/employer-logo-original/942457.jpg","240":"https://hhcdn.ru/employer-logo/4210365.jpeg","90":"https://hhcdn.ru/employer-logo/4210364.jpeg"},"vacancies_url":"https://api.hh.ru/vacancies?employer_id=827187","accredited_it_employer":false,"trusted":true},"snippet":{"requirement":"Высшее или средне-специальное образование. Опыт работы на позиции менеджер по закупкам от 3 лет. Знание программы 1С (Управление...","responsibility":"Получать и обрабатывать заявки. Обеспечивать своевременные поставки ТМЦ Заказчикам (закупка оборудования КИПиА и комплектующих). Контролировать поставки и своевременное выполнение обязанностей..."},"contacts":null,"schedule":{"id":"fullDay","name":"Полный день"},"working_days":[],"working_time_intervals":[],"working_time_modes":[],"accept_temporary":false,"professional_roles":[{"id":"66","name":"Менеджер по закупкам"}],"accept_incomplete_resumes":true,"experience":{"id":"between3And6","name":"От 3 до 6 лет"},"employment":{"id":"full","name":"Полная занятость"},"adv_response_url":null,"is_adv_vacancy":false,"adv_context":null},{"id":"93514566","premium":false,"name":"Водитель-помощник","department":null,"has_test":false,"response_letter_required":false,"area":{"id":"159","name":"Астана","url":"https://api.hh.ru/areas/159"},"salary":{"from":300000,"to":null,"currency":"KZT","gross":false},"type":{"id":"open","name":"Открытая"},"address":{"city":"Астана","street":"улица Сауран","building":"3","lat":51.125657,"lng":71.421976,"description":null,"raw":"Астана, улица Сауран, 3","metro":null,"metro_stations":[],"id":"816768"},"response_url":null,"sort_point_distance":null,"published_at":"2024-02-20T09:52:02+0300","created_at":"2024-02-20T09:52:02+0300","archived":false,"apply_alternate_url":"https://hh.ru/applicant/vacancy_response?vacancyId=93514566","insider_interview":null,"url":"https://api.hh.ru/vacancies/93514566?host=hh.ru","alternate_url":"https://hh.ru/vacancy/93514566","relations":[],"employer":{"id":"2842834","name":"SNK CONSULT GROUP","url":"https://api.hh.ru/employers/2842834","alternate_url":"https://hh.ru/employer/2842834","logo_urls":null,"vacancies_url":"https://api.hh.ru/vacancies?employer_id=2842834","accredited_it_employer":false,"trusted":true},"snippet":{"requirement":"Знание английского языка (B2). Хорошие знание города ПДД. Готовность к командировкам, в том числе за границу. Пунктуальность. ","responsibility":"Мелкосрочный ремонт авто."},"contacts":null,"schedule":{"id":"fullDay","name":"Полный день"},"working_days":[],"working_time_intervals":[],"working_time_modes":[],"accept_temporary":false,"professional_roles":[{"id":"21","name":"Водитель"}],"accept_incomplete_resumes":false,"experience":{"id":"between1And3","name":"От 1 года до 3 лет"},"employment":{"id":"full","name":"Полная занятость"},"adv_response_url":null,"is_adv_vacancy":false,"adv_context":null},{"id":"93254580","premium":false,"name":"Машинист буровой установки RU-75","department":null,"has_test":false,"response_letter_required":false,"area":{"id":"102","name":"Хабаровск","url":"https://api.hh.ru/areas/102"},"salary":{"from":228000,"to":228000,"currency":"RUR","gross":false},"type":{"id":"open","name":"Открытая"},"address":{"city":"Хабаровск","street":"улица Истомина","building":"51А","lat":48.474997,"lng":135.058846,"description":null,"raw":"Хабаровск, улица Истомина, 51А","metro":null,"metro_stations":[],"id":"4898993"},"response_url":null,"sort_point_distance":null,"published_at":"2024-02-15T08:00:54+0300","created_at":"2024-02-15T08:00:54+0300","archived":false,"apply_alternate_url":"https://hh.ru/applicant/vacancy_response?vacancyId=93254580","show_logo_in_search":null,"insider_interview":null,"url":"https://api.hh.ru/vacancies/93254580?host=hh.ru","alternate_url":"https://hh.ru/vacancy/93254580","relations":[],"employer":{"id":"4987434","name":"Охотская Горно-Геологическая Компания","url":"https://api.hh.ru/employers/4987434","alternate_url":"https://hh.ru/employer/4987434","logo_urls":{"original":"https://hhcdn.ru/employer-logo-original/944456.jpg","240":"https://hhcdn.ru/employer-logo/4218361.jpeg","90":"https://hhcdn.ru/employer-logo/4218360.jpeg"},"vacancies_url":"https://api.hh.ru/vacancies?employer_id=4987434","accredited_it_employer":false,"trusted":true},"snippet":{"requirement":"Квалификационное удостоверение машиниста буровой установки 5 разряда. Опыт работы на буровой установки RU-75., LM-75. Проведение текущих аварийных и...","responsibility":"Бурение из буровых камер. Бурение согласно ГТН, умение подобрать породоразрушающий инструмент, монтаж на устье скважины."},"contacts":null,"schedule":{"id":"flyInFlyOut","name":"Вахтовый метод"},"working_days":[],"working_time_intervals":[],"working_time_modes":[],"accept_temporary":false,"professional_roles":[{"id":"63","name":"Машинист"}],"accept_incomplete_resumes":true,"experience":{"id":"between3And6","name":"От 3 до 6 лет"},"employment":{"id":"full","name":"Полная занятость"},"adv_response_url":null,"is_adv_vacancy":false,"adv_context":null},{"id":"93545071","premium":false,"name":"Семейный водитель","department":null,"has_test":false,"response_letter_required":false,"area":{"id":"1","name":"Москва","url":"https://api.hh.ru/areas/1"},"salary":{"from":120000,"to":120000,"currency":"RUR","gross":false},"type":{"id":"open","name":"Открытая"},"address":null,"response_url":null,"sort_point_distance":null,"published_at":"2024-02-20T14:19:36+0300","created_at":"2024-02-20T14:19:36+0300","archived":false,"apply_alternate_url":"https://hh.ru/applicant/vacancy_response?vacancyId=93545071","insider_interview":null,"url":"https://api.hh.ru/vacancies/93545071?host=hh.ru","alternate_url":"https://hh.ru/vacancy/93545071","relations":[],"employer":{"id":"2021156","name":"ТТО АМИК","url":"https://api.hh.ru/employers/2021156","alternate_url":"https://hh.ru/employer/2021156","logo_urls":null,"vacancies_url":"https://api.hh.ru/vacancies?employer_id=2021156","accredited_it_employer":false,"trusted":true},"snippet":{"requirement":"опыт работы профессиональным водителем от 10 лет, семейным водителем - от 5 лет. - наличие рекомендательных писем (обязательно). - спокойное,комфортное и безопасное...","responsibility":"работа в качестве семейного водителя. - подача автомобиля по указанному месту в обозначенное время. - планирование оптимального маршрута движения. - выполнение поручений профессионального..."},"contacts":null,"schedule":{"id":"fullDay","name":"Полный день"},"working_days":[],"working_time_intervals":[],"working_time_modes":[],"accept_temporary":false,"professional_roles":[{"id":"21","name":"Водитель"}],"accept_incomplete_resumes":true,"experience":{"id":"moreThan6","name":"Более 6 лет"},"employment":{"id":"full","name":"Полная занятость"},"adv_response_url":null,"is_adv_vacancy":false,"adv_context":null},{"id":"93161709","premium":false,"name":"Менеджер по работе с клиентами (МЕРКАТОР)","department":null,"has_test":false,"response_letter_required":false,"area":{"id":"88","name":"Казань","url":"https://api.hh.ru/areas/88"},"salary":{"from":100000,"to":null,"currency":"RUR","gross":true},"type":{"id":"open","name":"Открытая"},"address":{"city":"Казань","street":"Приволжский район, жилой массив Отары, Дорожная улица","building":"1к10","lat":55.724135,"lng":49.098078,"description":null,"raw":"Казань, Приволжский район, жилой массив Отары, Дорожная улица, 1к10","metro":null,"metro_stations":[],"id":"15161689"},"response_url":null,"sort_point_distance":null,"published_at":"2024-02-13T17:06:04+0300","created_at":"2024-02-13T17:06:04+0300","archived":false,"apply_alternate_url":"https://hh.ru/applicant/vacancy_response?vacancyId=93161709","show_logo_in_search":null,"insider_interview":null,"url":"https://api.hh.ru/vacancies/93161709?host=hh.ru","alternate_url":"https://hh.ru/vacancy/93161709","relations":[],"employer":{"id":"1060821","name":"Рост Развитие Решение","url":"https://api.hh.ru/employers/1060821","alternate_url":"https://hh.ru/employer/1060821","logo_urls":{"90":"https://hhcdn.ru/employer-logo/874868.jpeg","240":"https://hhcdn.ru/employer-logo/874869.jpeg","original":"https://hhcdn.ru/employer-logo-original/85446.jpg"},"vacancies_url":"https://api.hh.ru/vacancies?employer_id=1060821","accredited_it_employer":false,"trusted":true},"snippet":{"requirement":"Опыт в продажах или с клиентами. Грамотная речь. Активность. Коммуникабельность.","responsibility":"Работа с клиентами. Контроль остатков инструмента на складе. Работа с дебиторской задолженностью. Отчетность в установленной форме (1С, Битрикс 24)."},"contacts":null,"schedule":{"id":"fullDay","name":"Полный день"},"working_days":[],"working_time_intervals":[],"working_time_modes":[],"accept_temporary":false,"professional_roles":[{"id":"70","name":"Менеджер по продажам, менеджер по работе с клиентами"}],"accept_incomplete_resumes":false,"experience":{"id":"between1And3","name":"От 1 года до 3 лет"},"employment":{"id":"full","name":"Полная занятость"},"adv_response_url":null,"is_adv_vacancy":false,"adv_context":null}],"found":1438900,"pages":100,"page":0,"per_page":20,"clusters":null,"arguments":null,"fixes":null,"suggests":null,"alternate_url":"https://hh.ru/search/vacancy?enable_snippets=true"}
+[
+    {
+        "name": "Data Analyst Intern / Стажер-аналитик данных",
+        "url": "https://hh.ru/vacancy/128081806",
+        "salary": "от 100000 RUR",
+        "description": "Имеешь опыт работы с некоторыми из следующих инструментов: статистические вычисления (<highlighttext>Python</highlighttext>, R), SQL и экосистема больших данных (Hadoop, Azure), инструменты..."
+    },
+    {
+        "name": "Тестировщик",
+        "url": "https://hh.ru/vacancy/127098537",
+        "salary": "Зарплата не указана",
+        "description": "Опыт тестирования Front, Back, Интеграции. Опыт тестирования API. Желателен опыт работы с TMS (DoQA), Redmine. Знание основ автоматизации (<highlighttext>Python</highlighttext>) будет..."
+    },
+    {
+        "name": "Тестировщик",
+        "url": "https://hh.ru/vacancy/128090577",
+        "salary": "до 100000 RUR",
+        "description": "Навык структурирования тестовой документации (чек-листы/тест-кейсы). Будет плюсом. — Опыт автоматизации тестов (<highlighttext>Python</highlighttext>) — хотя бы на уровне написания простых..."
+    },
+    {
+        "name": "Middle QA manual specialist",
+        "url": "https://hh.ru/vacancy/128089314",
+        "salary": "Зарплата не указана",
+        "description": "...опыт на проектах связанных с авторизацией, идентификацией и пр.. Умеешь работать с протоколами. Понимаешь интеграционное тестирование. Имеешь базовые знания <highlighttext>Python</highlighttext>."
+    },
+    {
+        "name": "Лидер по информационной безопасности",
+        "url": "https://hh.ru/vacancy/128081241",
+        "salary": "270000 - 330000 RUR",
+        "description": "Автоматизация: Навыки скриптовых языков программирования (<highlighttext>Python</highlighttext>, PowerShell, Bash) для создания инструментов мониторинга и реагирования. Soft skills: - Лидерство: Умение вдохновлять команду..."
+    },
+    {
+        "name": "Frontend-разработчик (React/Next.js)",
+        "url": "https://hh.ru/vacancy/128081074",
+        "salary": "Зарплата не указана",
+        "description": "Знание тестирования (Jest, React Testing Library). Базовые навыки бэкенда (<highlighttext>Python</highlighttext>/FastAPI — для понимания архитектуры). Английский — уровень Pre-Intermediate+ (чтение документации). "
+    },
+    {
+        "name": "Backend-разработчик Python",
+        "url": "https://hh.ru/vacancy/128068801",
+        "salary": "Зарплата не указана",
+        "description": "Опыт разработки от 2 лет. Языки: <highlighttext>Python</highlighttext>. БД: ClickHouse, PostgreSQL, Redis, Apache Ignite. Стек: FastAPI, SQLAlchemy, gRPC, Docker, KrakenD, Pandas..."
+    },
+    {
+        "name": "Data scientist - стажер",
+        "url": "https://hh.ru/vacancy/128081920",
+        "salary": "Зарплата не указана",
+        "description": "Имеешь опыт работы с <highlighttext>Python</highlighttext> (Pandas, NumPy, Scikit-learn, TensorFlow/PyTorch – будет плюсом). Имеешь опыт работы с SQL. "
+    },
+    {
+        "name": "Java разработчик в команду Платформы данных и аналитические системы",
+        "url": "https://hh.ru/vacancy/128085782",
+        "salary": "Зарплата не указана",
+        "description": "Опыт работы с любым BPMN-движком (Camunda, Activity). Навыки работы с профайлером, понимание Sampling, Thread Dump, Heap Dump. Знание <highlighttext>Python</highlighttext>."
+    },
+    {
+        "name": "Аналитик данных",
+        "url": "https://hh.ru/vacancy/128039781",
+        "salary": "Зарплата не указана",
+        "description": "Опыт работы в Yandex DataLens. Владение языком программирования <highlighttext>Python</highlighttext>, умение написать цикл, забрать данные по API для автоматизации сбора, статистической..."
+    },
+    {
+        "name": "QA Middle (mob, web, back)",
+        "url": "https://hh.ru/vacancy/128082723",
+        "salary": "Зарплата не указана",
+        "description": "Очень важно - внимательность, скорость, проактивность. Знание <highlighttext>Python</highlighttext> или желание его изучать (готовы обучать на реальных задачах в рабочем режиме). "
+    },
+    {
+        "name": "Системный аналитик",
+        "url": "https://hh.ru/vacancy/128054726",
+        "salary": "Зарплата не указана",
+        "description": "VBA - автоматизация процессов в Excel. 1С – умение пользоваться системой и работать с конструктором запросов. <highlighttext>Python</highlighttext> - базовые навыки чтения кода..."
+    },
+    {
+        "name": "Backend-разработчик (PHP/Python)",
+        "url": "https://hh.ru/vacancy/127477003",
+        "salary": "Зарплата не указана",
+        "description": "Глубокое знание PHP 8 + Yii (1/2/3) и <highlighttext>Python</highlighttext> (FastAPI, Pydantic). Практический опыт работы с SQL, оптимизацией запросов, Redis..."
+    },
+    {
+        "name": "Backend-разработчик",
+        "url": "https://hh.ru/vacancy/128087946",
+        "salary": "от 200000 RUR",
+        "description": "Отличные знания в разработке микросервисов на <highlighttext>Python</highlighttext>. Стек - FastAPI + Poetry + PostgreSQL + Redis + Kafka + Docker +..."
+    },
+    {
+        "name": "Функциональный тестировщик QA",
+        "url": "https://hh.ru/vacancy/128017735",
+        "salary": "150000 - 190000 RUR",
+        "description": "Ответственность, внимательность к деталям, хорошие коммуникативные навыки. Опыт работы с автоматизированным тестированием. Знание языков программирования (<highlighttext>Python</highlighttext>). Опыт работы в команде..."
+    },
+    {
+        "name": "Системный администратор",
+        "url": "https://hh.ru/vacancy/127961451",
+        "salary": "от 200000 RUR",
+        "description": "Знание систем виртуализации (импортозамещенные будут преимуществом). Знание языков программирования (<highlighttext>Python</highlighttext>, PowerShell, Bash) — чтобы писать скрипты и автоматизировать рутинные задачи. "
+    },
+    {
+        "name": "Backend Developer (Python)",
+        "url": "https://hh.ru/vacancy/128095873",
+        "salary": "до 250000 RUR",
+        "description": "Опыт разработки backend на <highlighttext>Python</highlighttext> от 2 лет. Знание веб-фреймворков (Django, FastAPI или аналогичные). Знание асинхронного программирования (asyncio). "
+    },
+    {
+        "name": "Go-разработчик",
+        "url": "https://hh.ru/vacancy/128061210",
+        "salary": "Зарплата не указана",
+        "description": "Способность быстро осваивать новые технологии и инструменты. Знание других языков программирования (<highlighttext>Python</highlighttext>, C#, Rust). Навыки реверс-инжиниринга на уровне переписывания..."
+    },
+    {
+        "name": "Senior QA Engineer",
+        "url": "https://hh.ru/vacancy/128036883",
+        "salary": "от 300000 RUR",
+        "description": "Владение <highlighttext>Python</highlighttext>, Git и Docker на уровне, достаточном для решения рабочих задач. Умение писать интеграционные и регрессионные тесты. "
+    },
+    {
+        "name": "Аналитик данных",
+        "url": "https://hh.ru/vacancy/128050059",
+        "salary": "Зарплата не указана",
+        "description": "Знание SQL и умение писать эффективные запросы. Владение <highlighttext>Python</highlighttext> на уровне автоматизации аналитических задач, интеграций и парсинга данных. "
+    },
+    {
+        "name": "Frontend-разработчик (React)",
+        "url": "https://hh.ru/vacancy/128084263",
+        "salary": "Зарплата не указана",
+        "description": "Коммерческий опыт: от 2,5 лет успешной профессиональной разработки на React. JavaScript: уверенные знания современных стандартов ES6+. "
+    },
+    {
+        "name": "Python-разработчик",
+        "url": "https://hh.ru/vacancy/128037077",
+        "salary": "180000 - 250000 RUR",
+        "description": "Linux на уровне уверенного пользователя (терминал, ssh). Уверенный Git. Опыт с <highlighttext>Python</highlighttext> 3+ лет. Отсутствие боязни заглянуть в соседний..."
+    },
+    {
+        "name": "Младший аналитик данных",
+        "url": "https://hh.ru/vacancy/127985834",
+        "salary": "Зарплата не указана",
+        "description": "Владеешь основами анализа данных и знаешь, как подступиться к большому массиву информации. Уверенно работаешь с <highlighttext>Python</highlighttext> и Excel для обработки..."
+    },
+    {
+        "name": "Системный аналитик",
+        "url": "https://hh.ru/vacancy/128073477",
+        "salary": "Зарплата не указана",
+        "description": "Опыт работы с Postman или аналогичным инструментом. Знание концепции DocsAsCode и CI\\CD в документации. Опыт разработки Go, Ruby, <highlighttext>Python</highlighttext>..."
+    },
+    {
+        "name": "Аналитик данных junior",
+        "url": "https://hh.ru/vacancy/127525713",
+        "salary": "до 80000 RUR",
+        "description": "Желательно умение работать с мерами (DAX) и подключениями к источникам данных. <highlighttext>Python</highlighttext>: Базовое знание языка <highlighttext>Python</highlighttext>. Опыт работы с библиотеками..."
+    },
+    {
+        "name": "Python-разработчик",
+        "url": "https://hh.ru/vacancy/127865214",
+        "salary": "140000 - 160000 RUR",
+        "description": "Разбираться в документации интегрируемых технологий. Ищем разработчик на <highlighttext>python</highlighttext> с опытом работы не менее 3х лет. Требуемые навыки: Умение..."
+    },
+    {
+        "name": "Middle backend developer",
+        "url": "https://hh.ru/vacancy/127817912",
+        "salary": "от 300000 RUR",
+        "description": "Cтэк: <highlighttext>python</highlighttext> / redis / PostgreSQL / mogodb / fastapi / asyncio / web3.py. Понимание технологии блокчейн и evm-compatible сетей будет плюсом."
+    },
+    {
+        "name": "Разработчик на Python",
+        "url": "https://hh.ru/vacancy/128000296",
+        "salary": "Зарплата не указана",
+        "description": "Промпт-инжиниринг: создание и оптимизация промптов для различных задач. - Знание <highlighttext>Python</highlighttext> библиотек для работы с LLM (LangChain, LlamaIndex, OpenAI SDK). - "
+    },
+    {
+        "name": "Стажёр-аналитик",
+        "url": "https://hh.ru/vacancy/128006104",
+        "salary": "40000 - 90000 RUR",
+        "description": "Навыки инфографики, подготовки кратких аналитических материалов и презентаций. Знание языков программирования (<highlighttext>python</highlighttext>/SPSS). Опыт работы в BI-системах (PoweBI / Tableau..."
+    },
+    {
+        "name": "DevOps Engineer (Intern \\ Junior)",
+        "url": "https://hh.ru/vacancy/128000081",
+        "salary": "до 100000 RUR",
+        "description": "Какой опыт и знания для нас являются важными: Kubernetes. Развертывания, эксплуатация, знание его архитектуры и компонентов. Git. Будет круто, если..."
+    },
+    {
+        "name": "Инженер по нагрузочному тестированию",
+        "url": "https://hh.ru/vacancy/128052783",
+        "salary": "130000 - 180000 RUR",
+        "description": "Опыт работы с СУБД PostgreSQL. Знание одного из языков программирования: С#, Java, <highlighttext>Python</highlighttext>. Опыт работы с API (REST/SOAP). "
+    },
+    {
+        "name": "Системный аналитик",
+        "url": "https://hh.ru/vacancy/127921386",
+        "salary": "Зарплата не указана",
+        "description": "Опыт работы системным аналитиком на веб-проектах от 3-х лет. Знание различных типов интеграций и опыт описания требований на..."
+    },
+    {
+        "name": "Программист Python (Junior)",
+        "url": "https://hh.ru/vacancy/127593136",
+        "salary": "от 70000 RUR",
+        "description": "Будет плюсом: Опыт работы с микросервисной архитектурой (API Gateway, отдельные сервисы). Знание асинхронного программирования в <highlighttext>Python</highlighttext> (async/await). "
+    },
+    {
+        "name": "Backend Developer (Python)",
+        "url": "https://hh.ru/vacancy/127827964",
+        "salary": "Зарплата не указана",
+        "description": "Уверенное знание <highlighttext>Python</highlighttext>. Опыт работы с FastAPI. Опыт работы с Django, Django ORM, DRF. Опыт работы с Celery. "
+    },
+    {
+        "name": "Python-разработчик (Junior)",
+        "url": "https://hh.ru/vacancy/127837488",
+        "salary": "от 120000 RUR",
+        "description": "Уверенное знание синтаксиса <highlighttext>Python</highlighttext>, базовых конструкций (переменные, типы данных, условия, циклы, функции). Понимание принципов и применение объектно-ориентированного программирования. "
+    },
+    {
+        "name": "QA Инженер (Senior/Lead)",
+        "url": "https://hh.ru/vacancy/128063563",
+        "salary": "Зарплата не указана",
+        "description": "Опыт работы c CAD. Опыт работы с C3D Toolkit. Базовые знания <highlighttext>Python</highlighttext> (для написания вспомогательных скриптов)."
+    },
+    {
+        "name": "Аналитик",
+        "url": "https://hh.ru/vacancy/127545111",
+        "salary": "60000 - 80000 RUR",
+        "description": "Высшее образование по направлению информатика/математика. Владение MS Office (Word, Excel). Знание MS SQL и <highlighttext>Python</highlighttext> приветствуется. Навыки программирования. "
+    },
+    {
+        "name": "Python-разработчик",
+        "url": "https://hh.ru/vacancy/127984262",
+        "salary": "140000 - 140000 RUR",
+        "description": "Опыт разработки на <highlighttext>Python</highlighttext> в Linux, Git. Знание основ РСУБД, HTTP, REST API, принципов ООП. Готовность разбираться в предметной области..."
+    },
+    {
+        "name": "Тестировщик",
+        "url": "https://hh.ru/vacancy/127989249",
+        "salary": "до 220000 RUR",
+        "description": "Опыт в тестировании от 3 лет. Высшее образование (желательно техническое). Опыт тестирования бэкенда, понимание и применение принципов тестирования API. "
+    },
+    {
+        "name": "Python-разработчик",
+        "url": "https://hh.ru/vacancy/128073686",
+        "salary": "130000 - 140000 RUR",
+        "description": "Опыт написания автотестов и желания поддерживать качество. Опыт работы с асинхронным <highlighttext>Python</highlighttext> (asyncio/FastAPI background tasks/async‑драйверы) — без фанатизма..."
+    },
+    {
+        "name": "Системный администратор (IT специалист)",
+        "url": "https://hh.ru/vacancy/128078065",
+        "salary": "110000 - 110000 RUR",
+        "description": "Автоматизация: Опыт написания скриптов (PowerShell, Bash, <highlighttext>Python</highlighttext>). Остальное: Работа с пользовательскими ОС (Ubuntu 20 и выше, Windows 10,11). "
+    },
+    {
+        "name": "ML-инженер (middle/middle+)",
+        "url": "https://hh.ru/vacancy/128084349",
+        "salary": "Зарплата не указана",
+        "description": "Хорошие навыки <highlighttext>Python</highlighttext> с пониманием принципов чистого и поддерживаемого кода. Опыт перевода моделей из стадии прототипа в <highlighttext>python</highlighttext> проект. "
+    },
+    {
+        "name": "Бизнес-аналитик/Системный аналитик",
+        "url": "https://hh.ru/vacancy/128095175",
+        "salary": "Зарплата не указана",
+        "description": "Опыт работы с базами данных, знание SQL, базовое знание <highlighttext>Python</highlighttext>. Навыки сбора и подготовки требований. Подготовка пользовательской и технической документации. "
+    },
+    {
+        "name": "Frontend-разработчик",
+        "url": "https://hh.ru/vacancy/127869919",
+        "salary": "от 250000 RUR",
+        "description": "Typescript, React, Redux. Будет плюсом: Wagmi, Viem, Next, <highlighttext>Python</highlighttext>, FastAPI, PostgreSQL, SQLAlchemy. Опыт web3 разработки."
+    },
+    {
+        "name": "DevOps-инженер в Программу лояльности",
+        "url": "https://hh.ru/vacancy/127863169",
+        "salary": "Зарплата не указана",
+        "description": "Ориентируешься в ключевых технологиях: Linux, Docker, Kubernetes, Ansible, <highlighttext>Python</highlighttext>, Nginx (не обязательно во всех). Умение строить конвейер CI/CD. "
+    },
+    {
+        "name": "Junior Python Developer",
+        "url": "https://hh.ru/vacancy/127953185",
+        "salary": "75000 - 110000 RUR",
+        "description": "<highlighttext>Python</highlighttext> - базовый уровень. Опыт написания REST приложений на каком-либо <highlighttext>python</highlighttext> фреймворке (Джанго / FastAPI / Flask). Базовый SQL. Опыт написания unit..."
+    },
+    {
+        "name": "Backend разработчик Python/Django/Telegram",
+        "url": "https://hh.ru/vacancy/128062154",
+        "salary": "до 140000 RUR",
+        "description": "Коммерческий опыт, уверенные знания <highlighttext>Python</highlighttext>, Middle+, опыт работы с fw Django. Понимание и практическое применение ORM, REST, Миграций. "
+    },
+    {
+        "name": "Backend/API разработчик",
+        "url": "https://hh.ru/vacancy/128070294",
+        "salary": "120000 - 150000 RUR",
+        "description": "Опыт коммерческой разработки на <highlighttext>Python</highlighttext> от 2 лет. Глубокое понимание FastAPI (или Django/Flask) и асинхронного программирования. Опыт проектирования и..."
+    },
+    {
+        "name": "Junior Python Backend Developer",
+        "url": "https://hh.ru/vacancy/127349797",
+        "salary": "до 120000 RUR",
+        "description": "Уверенное знание <highlighttext>python</highlighttext>. Уверенное знание django и DRF. Опыт работы с git. Опыт работы с PostgreSQL и умение писать SQL..."
+    },
+    {
+        "name": "Technical Project Manager (в Бильбао, Испания)",
+        "url": "https://hh.ru/vacancy/128058819",
+        "salary": "Зарплата не указана",
+        "description": "Умеет балансировать между результатом и качеством процесса. Готов брать ответственность за результат. Высшее техническое образование. Знание <highlighttext>Python</highlighttext> и SQL."
+    },
+    {
+        "name": "Заместитель начальника инспекции Департамента аудита образования, науки и инноваций",
+        "url": "https://hh.ru/vacancy/127168751",
+        "salary": "от 210000 RUR",
+        "description": "...РФ и т.п.) - как преимущество. Владение инструментами анализа данных (<highlighttext>Python</highlighttext>, SQL, BI-системы, электронные таблицы, запросы по API) - как..."
+    },
+    {
+        "name": "Backend-разработчик",
+        "url": "https://hh.ru/vacancy/128022095",
+        "salary": "80000 - 150000 RUR",
+        "description": "Работать в моно-репозитории, придерживаясь hexagonal/modular-monolith подходов. Требования. Уверенный <highlighttext>Python</highlighttext> 3.11+ и хорошее понимание AsyncIO. "
+    },
+    {
+        "name": "Backend-developer (Python)",
+        "url": "https://hh.ru/vacancy/127798422",
+        "salary": "от 70000 RUR",
+        "description": "Уверенные навыки написания кода на <highlighttext>Python</highlighttext>. - Знание REST API и одного из популярных веб-фреймворков (Django, FastAPI). - Опыт работы с..."
+    },
+    {
+        "name": "QA тестировщик",
+        "url": "https://hh.ru/vacancy/127889542",
+        "salary": "от 100000 RUR",
+        "description": "Знание PHPUnit или других фреймворков для тестирования. Опыт работы с Selenium/Cypress (будет преимуществом). Знание основ JavaScript/<highlighttext>Python</highlighttext> (для автоматизации)."
+    },
+    {
+        "name": "Junior+ Python/Go разработчик",
+        "url": "https://hh.ru/vacancy/128091176",
+        "salary": "70000 - 110000 RUR",
+        "description": "Опыт коммерческой разработки от 1 года. Владение <highlighttext>Python</highlighttext> 2/3. Владение (My)SQL, конкретно. Написать запросы, достаточные для CRUD (SELECT..."
+    },
+    {
+        "name": "Middle QA инженер (веб-проекты)",
+        "url": "https://hh.ru/vacancy/127404162",
+        "salary": "70000 - 150000 RUR",
+        "description": "При желании и наличии навыков — разработка и поддержка автотестов (<highlighttext>Python</highlighttext> + pytest + Selenium). Требования: - От 2 лет опыта в..."
+    },
+    {
+        "name": "Инженер-программист встраиваемых систем (Junior, Junior+)",
+        "url": "https://hh.ru/vacancy/128050739",
+        "salary": "80000 - 120000 RUR",
+        "description": "Высшее или неоконченное высшее техническое образование (ИТ, автоматика, электроника, прикладная математика и т.п.). Понимание основ архитектуры микроконтроллеров и принципов..."
+    },
+    {
+        "name": "QA специалист",
+        "url": "https://hh.ru/vacancy/127942372",
+        "salary": "Зарплата не указана",
+        "description": "Знание специфики и опыт работы с JSON. Английский B1 (чтение технической документации). Опыт автоматизации (<highlighttext>python</highlighttext> + pytest/requests/Selenium..."
+    },
+    {
+        "name": "Backend разработчик (Python)",
+        "url": "https://hh.ru/vacancy/127907309",
+        "salary": "Зарплата не указана",
+        "description": "Опыт коммерческой разработки на <highlighttext>Python</highlighttext> 3 от 2-х лет. Уверенное понимание и практический опыт работы с FastAPI. "
+    },
+    {
+        "name": "Инженер по тестированию (AQA +manual) Middle+",
+        "url": "https://hh.ru/vacancy/128062043",
+        "salary": "до 300000 RUR",
+        "description": "Настройка CI\\CD. Написание мок-сервисов. Ревью автотестов. Основной ЯП: Java/Kotlin. Редкие ЯП: <highlighttext>Python</highlighttext>, C#/.NET, JavaScript."
+    },
+    {
+        "name": "Младший системный администратор Linux",
+        "url": "https://hh.ru/vacancy/128039121",
+        "salary": "до 140000 RUR",
+        "description": "Понимание принципов настройки системных сервисов. Владение скриптовыми языками (BASH или <highlighttext>Python</highlighttext>). Опыт работы с системами инвентаризации (Netbox). Знание стека мониторинга..."
+    },
+    {
+        "name": "Аналитик данных (Support)",
+        "url": "https://hh.ru/vacancy/127944026",
+        "salary": "Зарплата не указана",
+        "description": "Будет плюсом опыт работы с dbt и Spark. Базовое владение <highlighttext>Python</highlighttext> (pandas). Знание основ математики и статистики. Автономность и проактивность..."
+    },
+    {
+        "name": "DevOps инженер",
+        "url": "https://hh.ru/vacancy/128082138",
+        "salary": "Зарплата не указана",
+        "description": "Давай скорее знакомиться!"
+    },
+    {
+        "name": "Data Scientist",
+        "url": "https://hh.ru/vacancy/128065682",
+        "salary": "Зарплата не указана",
+        "description": "Реализовать систему автоматизированного дообучения моделей. + Владение <highlighttext>Python</highlighttext> и основными библиотеками анализа данных. + Знание SQL (оконные функции, оптимизация запросов..."
+    },
+    {
+        "name": "Аналитик",
+        "url": "https://hh.ru/vacancy/127282945",
+        "salary": "Зарплата не указана",
+        "description": "Готовность разбираться в новых задачах и быстро учиться. Будет плюсом: опыт в EdTech, знание <highlighttext>Python</highlighttext> или других языков анализа данных."
+    },
+    {
+        "name": "Middle Pyton Developer",
+        "url": "https://hh.ru/vacancy/127469250",
+        "salary": "Зарплата не указана",
+        "description": "Опыт программирования на <highlighttext>Python</highlighttext> 3 от 3 лет."
+    },
+    {
+        "name": "QA-инженер (senior)",
+        "url": "https://hh.ru/vacancy/128047712",
+        "salary": "Зарплата не указана",
+        "description": "Знание одного или нескольких языков программирования (<highlighttext>Python</highlighttext>, JS, Java и т.п.) будет преимуществом. Опыт интеграции тестов в пайплайны CI..."
+    },
+    {
+        "name": "Тестировщик",
+        "url": "https://hh.ru/vacancy/127789437",
+        "salary": "Зарплата не указана",
+        "description": "Опыт нагрузочного тестирования. Опыт написания скриптов в Postman. Знание языка программирования - <highlighttext>Python</highlighttext> и фреймворка Pytest/Playwright. Высшее профессиональное техническое образование."
+    },
+    {
+        "name": "Аналитик данных",
+        "url": "https://hh.ru/vacancy/127409546",
+        "salary": "70000 - 100000 RUR",
+        "description": "Сильные аналитические навыки, внимательность к деталям. Умение структурировать информацию и находить закономерности. Логическое мышление, способность связывать показатели с бизнес-процессами. "
+    },
+    {
+        "name": "Главный эксперт",
+        "url": "https://hh.ru/vacancy/128060838",
+        "salary": "Зарплата не указана",
+        "description": "Умение оценивать финансовое состояние организации. Умение анализировать большой объем финансовой информации, работа с большим массивами данных. Приветствуется владение SQL,<highlighttext>Python</highlighttext>."
+    },
+    {
+        "name": "Python разработчик (Django, Selenium/Playwright)",
+        "url": "https://hh.ru/vacancy/128051890",
+        "salary": "от 120000 RUR",
+        "description": "Наши ценности - позитивное мышление, открытость, порядочность, ответственность за результат. Требуемые навыки: Умение работать с технической документацией на английском языке. "
+    },
+    {
+        "name": "Ведущий системный аналитик",
+        "url": "https://hh.ru/vacancy/128078248",
+        "salary": "Зарплата не указана",
+        "description": "Экспертизу в работе с большими данными и распределёнными системами, уверенный SQL и умение читать код на <highlighttext>Python</highlighttext>. Понимание интеграций и..."
+    },
+    {
+        "name": "Тестировщик",
+        "url": "https://hh.ru/vacancy/127920862",
+        "salary": "Зарплата не указана",
+        "description": "Опыт написания автотестов на <highlighttext>Python</highlighttext>/Java/JavaScript. Не просто запись, а проектирование тестовой архитектуры. Понимание паттернов Page Object/App/Screen. "
+    },
+    {
+        "name": "QA Engineer (middle+ lvl)",
+        "url": "https://hh.ru/vacancy/127563340",
+        "salary": "от 200000 RUR",
+        "description": "Серьезное преимущество / необязательно, но имеет приоритет при подборе: Владение одним из языков разработки (<highlighttext>python</highlighttext> или java). Опыт работы со средствами..."
+    },
+    {
+        "name": "Project-manager",
+        "url": "https://hh.ru/vacancy/128063110",
+        "salary": "Зарплата не указана",
+        "description": "Понимание процессов разработки (Agile, Scrum, Kanban). Базовые технические знания: o <highlighttext>Python</highlighttext> (Django/FastAPI/Flask или аналоги)/ о React Native/о..."
+    },
+    {
+        "name": "QA инженер",
+        "url": "https://hh.ru/vacancy/127370005",
+        "salary": "130000 - 150000 RUR",
+        "description": "Владение инструментами визуализации данных и работы с логами (Grafana/Kibana). Приветствуется опыт автоматизации <highlighttext>python</highlighttext> ,навыки работы с библиотеками pytest, requests..."
+    },
+    {
+        "name": "Бизнес-аналитик",
+        "url": "https://hh.ru/vacancy/128039139",
+        "salary": "Зарплата не указана",
+        "description": "Высшее или неоконченное высшее образование. Опыт работы в роли БА или СА от 2 лет. Опыт анализа, выбора и реализации..."
+    },
+    {
+        "name": "Системный аналитик",
+        "url": "https://hh.ru/vacancy/126609237",
+        "salary": "от 160000 RUR",
+        "description": "Опыт работы с системами управления требованиями и проектной документацией. — Опыт работы с базами данных и SQL. — Английский язык не ниже..."
+    },
+    {
+        "name": "Python разработчик",
+        "url": "https://hh.ru/vacancy/127921066",
+        "salary": "от 120000 RUR",
+        "description": "Знаешь операционные системы семейства Linux;- Имеешь опыт работы с framework: FastAPI/ Flask /Djang o (Сейча с FastAPI);- Понимаешь принципы многопоточных..."
+    },
+    {
+        "name": "Junior Python программист (DataMining)",
+        "url": "https://hh.ru/vacancy/128062531",
+        "salary": "50000 - 80000 RUR",
+        "description": "Уверенное использование <highlighttext>Python</highlighttext>. Знание базовых структур данных и алгоритмов, способность оценивать скорость работы алгоритмов. Умение работать с удаленными серверами через..."
+    },
+    {
+        "name": "Python-разработчик (Начинающий)",
+        "url": "https://hh.ru/vacancy/127911230",
+        "salary": "Зарплата не указана",
+        "description": "Есть желание развиваться в асинхронном программировании на <highlighttext>Python</highlighttext>, а также в логическом построении структуры сервисов. Ответственно относишься к задачам и..."
+    },
+    {
+        "name": "Разработчик Python",
+        "url": "https://hh.ru/vacancy/128086729",
+        "salary": "Зарплата не указана",
+        "description": "Опыт коммерческой разработки backend для нейросетевых микросервисов на <highlighttext>Python</highlighttext> с использованием FastAPI, uvicorn, redis, celery, pydantic, SQLAlchemy, ORM, Postgresql. - "
+    },
+    {
+        "name": "Системный аналитик",
+        "url": "https://hh.ru/vacancy/127336266",
+        "salary": "200000 - 230000 RUR",
+        "description": "Имеете опыт работы на позиции Системного или Бизнес-аналитика от 2-х лет в IT. Обладаете глубоким пониманием или имеете..."
+    },
+    {
+        "name": "Senior Product Analyst (Search & Recommendations) | Старший Продуктовый Аналитик",
+        "url": "https://hh.ru/vacancy/128048771",
+        "salary": "Зарплата не указана",
+        "description": "Знаком с основными библиотеками <highlighttext>Python</highlighttext> для анализа и визуализации данных. Имеешь опыт работы с BI-инструментами (Tableau). Знаешь что такое..."
+    },
+    {
+        "name": "Data Analyst / Аналитик данных",
+        "url": "https://hh.ru/vacancy/127953260",
+        "salary": "Зарплата не указана",
+        "description": "Опыт с dbt моделями. Опыт с Greenplum. Автоматизация аналитических решений – работа с docker. Базовое понимание сферы e-com, business mindset."
+    },
+    {
+        "name": "Junior Java разработчик",
+        "url": "https://hh.ru/vacancy/128036793",
+        "salary": "Зарплата не указана",
+        "description": "Знание Java Core (ООП, collections, lambda, stream, multythreads, concurrent), Git. Знание математической части: Понимание алгоритмов, рекурсии, разработка собственных алгоритмов обработки..."
+    },
+    {
+        "name": "Backend-разработчик (Python / Django / Fastapi)",
+        "url": "https://hh.ru/vacancy/128097612",
+        "salary": "160000 - 200000 RUR",
+        "description": "Опыт продуктовой разработки от 2,5 лет. Хорошие знания Django, Django Rest Framework, FastAPI. Знание SQL (Postgres). Опыт проектирования архитектуры..."
+    },
+    {
+        "name": "Backend разработчик/тестировщик Python (FastAPI)",
+        "url": "https://hh.ru/vacancy/128022344",
+        "salary": "от 100000 RUR",
+        "description": "Опыт коммерческой разработки на <highlighttext>Python</highlighttext> от 3-х лет. Глубокое знание FastAPI (dependency injection, middleware, lifespan events). Продвинутый уровень SQLAlchemy..."
+    },
+    {
+        "name": "Тестировщик ПО",
+        "url": "https://hh.ru/vacancy/127994100",
+        "salary": "до 70000 RUR",
+        "description": "Опыт в написании авто-тестов: написание, запуск, разбор падений, улучшение инфраструктуры и кода автоматических тестов (<highlighttext>python</highlighttext>). Знание английского языка на..."
+    },
+    {
+        "name": "Python developer",
+        "url": "https://hh.ru/vacancy/127748587",
+        "salary": "от 120000 RUR",
+        "description": "Опыт коммерческой разработки на <highlighttext>Python</highlighttext> - от 1 года. Глубокое понимание <highlighttext>Python</highlighttext> 3.x и стандартной библиотеки. Знание принципов ООП, SOLID. "
+    },
+    {
+        "name": "Big Data Engineer",
+        "url": "https://hh.ru/vacancy/128095508",
+        "salary": "Зарплата не указана",
+        "description": "Уверенные навыки в Spark. Опыт разработки на <highlighttext>Python</highlighttext>. Отличное понимание SQL и принципов работы с СУБД. Инженерный подход, интерес к..."
+    },
+    {
+        "name": "Аналитик данных",
+        "url": "https://hh.ru/vacancy/127929400",
+        "salary": "120000 - 140000 RUR",
+        "description": "Уверенное владение Excel (умение работать с формулами и функциями, создавать сводные таблицы, макросы, настраивать диаграммы, работать с большими массивами данных)."
+    },
+    {
+        "name": "Аналитик SQL",
+        "url": "https://hh.ru/vacancy/127053875",
+        "salary": "от 150000 RUR",
+        "description": "Умение разбираться и запоминать сложную бизнес-логику. DBT или готовность его освоить. <highlighttext>Python</highlighttext> на уровне работы с Pandas и аналитическими..."
+    },
+    {
+        "name": "Golang-разработчик. Nova",
+        "url": "https://hh.ru/vacancy/128054457",
+        "salary": "Зарплата не указана",
+        "description": "Бэкграунд в разработке на Go более двух лет . Понимание принципов работы Kubernetes и умение взаимодействовать с API + расширениями через..."
+    },
+    {
+        "name": "Junior backend-разработчик",
+        "url": "https://hh.ru/vacancy/127842609",
+        "salary": "80000 - 80000 RUR",
+        "description": "Уверенное владение <highlighttext>Python</highlighttext>. Опыт работы с FastAPI (от 6 месяцев). Знание Pydantic и понимание принципов построения backend-сервера. "
+    },
+    {
+        "name": "Middle Python developer",
+        "url": "https://hh.ru/vacancy/127993101",
+        "salary": "Зарплата не указана",
+        "description": "Понимать бизнес-логику. Знание <highlighttext>Python</highlighttext> 3, понимание его сильных и слабых сторон. Опыт работы с брокерами сообщений. Понимание и опыт..."
+    },
+    {
+        "name": "QA Engineer (Manual + Automation)",
+        "url": "https://hh.ru/vacancy/127999693",
+        "salary": "Зарплата не указана",
+        "description": "Опыт ручного и автоматизированного тестирования (UI/API). Знание <highlighttext>Python</highlighttext> и/или Java для автотестов. Умение оценивать готовность фич, приоритизировать задачи..."
+    },
+    {
+        "name": "Middle Backend Developer",
+        "url": "https://hh.ru/vacancy/128060484",
+        "salary": "120000 - 150000 RUR",
+        "description": "Твердые знания в JavaScript/TypeScript, бонусом <highlighttext>Python</highlighttext> и PHP. — Опыт работы с MySQL / PostgreSQL. — Умение работать с Git. — "
+    },
+    {
+        "name": "Тестировщик",
+        "url": "https://hh.ru/vacancy/127202637",
+        "salary": "Зарплата не указана",
+        "description": "Приветствуется знание основ одного из языков программирования (например, <highlighttext>Python</highlighttext>). Критическое мышление, внимание к деталям, хорошо развитые аналитические навыки, ответственность, самостоятельность..."
+    }
+]
