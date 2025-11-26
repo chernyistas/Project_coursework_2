@@ -1,4 +1,6 @@
+import re
 from typing import List
+
 from src.vacancy import Vacancy
 
 
@@ -22,13 +24,24 @@ def sort_vacancies(vacancies: List[Vacancy]) -> List[Vacancy]:
 
     return sorted(vacancies, reverse=True)
 
+
 def get_top_vacancies(vacancies: List[Vacancy], top_n: int) -> List[Vacancy]:
     """Метод берёт первые N вакансий"""
 
     return vacancies[:top_n]
 
-def print_vacancies(vacancies: List[Vacancy]):
+
+def clean_highlight_tags(text: str) -> str:
+    """Метод удаляет теги из текста"""
+    return re.sub(r"<highlighttext>(.*?)</highlighttext>", r"\1", text)
+
+
+def print_vacancies(vacancies: List[Vacancy]) -> None:
     """Метод выводит список вакансий в консоль"""
 
     for v in vacancies:
-        print(f"Название: {v.name}\nСсылка: {v.url}\nЗарплата: {v.salary}\nОписание: {v.description}\n{"-" * 50}")
+        name_clean = clean_highlight_tags(v.name)
+        description_clean = clean_highlight_tags(v.description)
+        print(
+            f"Название: {name_clean}\nСсылка: {v.url}\nЗарплата: {v.salary}\nОписание: {description_clean}\n{"-" * 50}"
+        )

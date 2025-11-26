@@ -1,14 +1,14 @@
 import logging
 
-
 from src.api import HeadHunterAPI
-from src.vacancy import Vacancy
-from src.utils import filter_vacancies, get_vacancies_by_salary, sort_vacancies, get_top_vacancies, print_vacancies
 from src.storage import JSONSaver
+from src.utils import filter_vacancies, get_top_vacancies, print_vacancies, sort_vacancies
+from src.vacancy import Vacancy
 
 logging.basicConfig(level=logging.INFO, format="%(asctime)s %(levelname)s %(message)s")
 
-def user_interaction():
+
+def user_interaction() -> None:
     """Метод, который взаимодействует с пользователем через информационный интерфейс"""
 
     logging.info("Старт приложения")
@@ -16,8 +16,10 @@ def user_interaction():
     saver = JSONSaver()
 
     while True:
-        print("\n1. Поиск и добавление вакансий\n2. Вывести топ N по зарплате\n3. Фильтрация по ключу"
-              "\n4. Удалить вакансию\n0. Выйти\n")
+        print(
+            "\n1. Поиск и добавление вакансий\n2. Вывести топ N по зарплате\n3. Фильтрация по ключу"
+            "\n4. Удалить вакансию\n0. Выйти\n"
+        )
         cmd = input("Выберите действие: ").strip()
 
         if cmd == "1":
@@ -57,6 +59,7 @@ def user_interaction():
 
         else:
             print("Некорректный ввод.")
+
 
 if __name__ == "__main__":
     user_interaction()

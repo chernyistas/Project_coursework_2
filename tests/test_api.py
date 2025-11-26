@@ -1,6 +1,9 @@
-import pytest
-from src.api import HeadHunterAPI
 from typing import Any
+
+import pytest
+
+from src.api import HeadHunterAPI
+
 
 def test_connect_success(monkeypatch: Any, mock_response_ok: Any) -> None:
     """Тест на успешное подключение"""
@@ -11,6 +14,7 @@ def test_connect_success(monkeypatch: Any, mock_response_ok: Any) -> None:
     response = api._connect()
     assert response.status_code == 200
 
+
 def test_connect_fail(monkeypatch: Any, mock_response_fail: Any) -> None:
     """Тест на ошибку при подключении"""
 
@@ -19,6 +23,7 @@ def test_connect_fail(monkeypatch: Any, mock_response_fail: Any) -> None:
     monkeypatch.setattr("requests.get", lambda *args, **kwargs: mock_response_fail)
     with pytest.raises(ConnectionError):
         api._connect()
+
 
 def test_get_vacancies(monkeypatch: Any, mock_response_ok: Any) -> None:
     """Тест на получение вакансий"""

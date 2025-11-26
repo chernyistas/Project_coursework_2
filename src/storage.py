@@ -1,41 +1,42 @@
 import json
 import logging
 import os
-from typing import List, Optional, Any
-from src.vacancy import Vacancy
 from abc import ABC, abstractmethod
+from typing import Callable, List, Optional
+
+from src.vacancy import Vacancy
 
 logging.basicConfig(level=logging.INFO, format="%(asctime)s %(levelname)s %(message)s")
+
 
 class AbstractFileHandler(ABC):
     """Абстрактный класс-хранилище вакансий"""
 
     @abstractmethod
-    def add_vacancy(self, vacancy: Vacancy):
+    def add_vacancy(self, vacancy: Vacancy) -> None:
         """Добавляет вакансию"""
         pass
 
     @abstractmethod
-    def get_vacancies(self, criteria: Optional[Any] = None) -> List[Vacancy]:
+    def get_vacancies(self, criteria: Optional[Callable[[Vacancy], bool]] = None) -> List[Vacancy]:
         """Получает вакансии с опциональным фильтром"""
         pass
 
-
     @abstractmethod
-    def delete_vacancy(self, vacancy: Vacancy):
-        """ Удаляет вакансию"""
+    def delete_vacancy(self, vacancy: Vacancy) -> None:
+        """Удаляет вакансию"""
         pass
 
 
 class JSONSaver(AbstractFileHandler):
     """Клас для работы с JSON-файлом вакансий"""
 
-    def __init__(self, filename: str = "data/vacancies.json"):
+    def __init__(self, filename: str = "data/vacancies.json") -> None:
         """Конструктор инициализирующий JSONSaver"""
         os.makedirs(os.path.dirname(filename), exist_ok=True)
         self.__filename = filename
 
-    def add_vacancy(self, vacancy: Vacancy):
+    def add_vacancy(self, vacancy: Vacancy) -> None:
         """Добавляет вакансию"""
         logging.info(f"Пробуем добавить вакансию: {vacancy.name}")
         vacancies = self.get_vacancies()
@@ -46,7 +47,7 @@ class JSONSaver(AbstractFileHandler):
         else:
             logging.info(f"Вакансия уже есть: {vacancy.url}")
 
-    def get_vacancies(self, criteria: Optional[Any] = None) -> List[Vacancy]:
+    def get_vacancies(self, criteria: Optional[Callable[[Vacancy], bool]] = None) -> List[Vacancy]:
         """Получает вакансии с опциональным фильтром"""
         try:
             with open(self.__filename, "r", encoding="utf-8") as f:
@@ -59,19 +60,20 @@ class JSONSaver(AbstractFileHandler):
             return [v for v in vacancies if criteria(v)]
         return vacancies
 
-    def delete_vacancy(self, vacancy: Vacancy):
-        """ Удаляет вакансию"""
+    def delete_vacancy(self, vacancy: Vacancy) -> None:
+        """Удаляет вакансию"""
         logging.info(f"Удаляем вакансию: {vacancy.name}")
         vacancies = self.get_vacancies()
         vacancies = [v for v in vacancies if v.url != vacancy.url]
         self.__save_to_file(vacancies)
 
-    def __save_to_file(self, vacancies: List[Vacancy]):
+    def __save_to_file(self, vacancies: List[Vacancy]) -> None:
         try:
-            data = [{"name": v.name, "url": v.url, "salary": v.salary, "description": v.description} for v in vacancies]
+            data = [
+                {"name": v.name, "url": v.url, "salary": v.salary, "description": v.description} for v in vacancies
+            ]
             with open(self.__filename, "w", encoding="utf-8") as f:
                 json.dump(data, f, ensure_ascii=False, indent=4)
             logging.info(f"Вакансии успешно сохранены в {self.__filename}")
         except Exception as e:
             logging.error(f"Ошибка при сохранении в файл: {e}")
-

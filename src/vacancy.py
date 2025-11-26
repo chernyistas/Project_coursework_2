@@ -1,8 +1,9 @@
-from typing import Optional, List
 import re
+from typing import List, Optional
+
 
 class Vacancy:
-    """ Класс, представляющий вакансию"""
+    """Класс, представляющий вакансию"""
 
     __slots__ = ["name", "url", "salary", "description"]
 
@@ -26,8 +27,12 @@ class Vacancy:
         """Метод проверяющий, что зарплата больше определённой зарплаты"""
         return self._salary_value(self.salary) > self._salary_value(other.salary)
 
-    def __eq__(self, other: "Vacancy") -> bool:
+    def __eq__(self, other: object) -> bool:
         """Метод проверяющий, что зарплата равна определённой зарплате"""
+
+        if not isinstance(other, Vacancy):
+            return NotImplemented
+        return self._salary_value(self.salary) == self._salary_value(other.salary)
 
     @staticmethod
     def _salary_value(salary: str) -> int:
@@ -35,7 +40,7 @@ class Vacancy:
 
         if salary == "Зарплата не указана":
             return 0
-        match = re.search(r'\d+', salary.replace(' ', ''))
+        match = re.search(r"\d+", salary.replace(" ", ""))
         return int(match.group()) if match else 0
 
     @classmethod
