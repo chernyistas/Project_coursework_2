@@ -4,7 +4,7 @@ from src.vacancy import Vacancy
 
 
 def test_salary_validation(vac_1: Vacancy, vac_2: Vacancy) -> None:
-    """Проверяет валидацию зарплаты при создании вакансий"""
+    """Тест проверяет валидацию зарплаты при создании вакансий"""
 
     assert vac_1.salary == "Зарплата не указана"
     assert Vacancy._salary_value("Зарплата не указана") == 0
@@ -13,7 +13,7 @@ def test_salary_validation(vac_1: Vacancy, vac_2: Vacancy) -> None:
 
 
 def test_comparisons(vac_2: Vacancy, vac_3: Vacancy, vac_4: Vacancy) -> None:
-    """Проверяет работу операторов сравнения между вакансиями по зарплате"""
+    """Тест проверяет работу операторов сравнения между вакансиями по зарплате"""
 
     assert vac_2 < vac_3
     assert vac_3 > vac_4

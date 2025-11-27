@@ -1158,12 +1158,6 @@
         "description": "Опыт разработки на <highlighttext>Java</highlighttext> от 2 лет. Знание <highlighttext>Java</highlighttext> Core (коллекции, исключения и т.д.), Spring, <highlighttext>Java</highlighttext> 11, Spring Boot..."
     },
     {
-        "name": "Тестировщик мобильных приложений",
-        "url": "https://hh.ru/vacancy/127135322",
-        "salary": "до 325000 RUR",
-        "description": "Опыт работы в сфере тестирования от 5 лет, при этом на последнем месте работы минимум 2 года. Обязателен опыт работы..."
-    },
-    {
         "name": "Java-разработчик",
         "url": "https://hh.ru/vacancy/127917684",
         "salary": "200000 - 250000 RUR",
@@ -1204,5 +1198,209 @@
         "url": "https://hh.ru/vacancy/128093428",
         "salary": "Зарплата не указана",
         "description": "Уверенные знания языка программирования <highlighttext>Python</highlighttext> и его стандартных библиотек. Опыт работы с регулярными выражениями для обработки текстовых данных. "
+    },
+    {
+        "name": "Разработчик JavaScript (frontend)",
+        "url": "https://hh.ru/vacancy/128145856",
+        "salary": "Зарплата не указана",
+        "description": "Коммерческий опыт разработки веб-приложений. Уверенные навыки разработки на JavaScript и TypeScript (работа с модульной архитектурой). Опыт разработки интерфейсов на..."
+    },
+    {
+        "name": "Ведущий инженер по тестированию(QA backend)",
+        "url": "https://hh.ru/vacancy/128131293",
+        "salary": "Зарплата не указана",
+        "description": "Навыки программирования на одном из языков (Java(Spring), Kotlin, JavaScript, <highlighttext>Python</highlighttext>). Умение обращаться с командной строкой. Базовое понимание принципов работы..."
+    },
+    {
+        "name": "Python-разработчик",
+        "url": "https://hh.ru/vacancy/128124611",
+        "salary": "Зарплата не указана",
+        "description": "Опыт <highlighttext>python</highlighttext> разработки от 2 лет. Понимание микросервисной архитектуры. Знание шаблонов проектирования. Опыт работы c Docker, aiohttp (async frameworks). "
+    },
+    {
+        "name": "Python-разработчик",
+        "url": "https://hh.ru/vacancy/128139893",
+        "salary": "Зарплата не указана",
+        "description": "Опыт работы с <highlighttext>Python</highlighttext> от 1 года (можно с pet-проектами). Понимание принципов ООП и умение применять их на практике. "
+    },
+    {
+        "name": "Python-разработчик",
+        "url": "https://hh.ru/vacancy/128122937",
+        "salary": "до 230000 RUR",
+        "description": "Опыт работы с Apache Airflow (понимание принципов работы системы, написание DAG, знание операторов). Знание <highlighttext>Python</highlighttext> на уровне, достаточном для написания..."
+    },
+    {
+        "name": "Младший тестировщик ПО",
+        "url": "https://hh.ru/vacancy/128115701",
+        "salary": "от 70000 RUR",
+        "description": "Опыт работы с postgresql. Навыки программирования Java/<highlighttext>Python</highlighttext> (frameworks: Behave/PyTest). Чтение кода (понимание) C#, <highlighttext>python</highlighttext>, java/kotlin, vue. "
+    },
+    {
+        "name": "QA-инженер (Engineer)/Тестировщик/Инженер по тестированию",
+        "url": "https://hh.ru/vacancy/128132816",
+        "salary": "60000 - 150000 RUR",
+        "description": "Будет плюсом. Знание <highlighttext>Python</highlighttext> на уровне: Опыт работы с инструментами автоматизации тестирования: Опыт написания хотя бы простых автотестов. "
+    },
+    {
+        "name": "Специалист технической поддержки (SQL)",
+        "url": "https://hh.ru/vacancy/128128095",
+        "salary": "Зарплата не указана",
+        "description": "Ответственность, желание исправить проблему, откуда бы она ни пришла. Умеешь читать код на <highlighttext>Python</highlighttext> и писать простые скрипты. "
+    },
+    {
+        "name": "QA инженер, Страница оформления заказа",
+        "url": "https://hh.ru/vacancy/128146386",
+        "salary": "Зарплата не указана",
+        "description": "Умение тестировать бэкенд, задачи по нему занимают порядка 70%, остальное фронтенд. Понимание архитектуры автотестирования, некоторые автотесты нуждается в рефакторинге."
+    },
+    {
+        "name": "Системный аналитик",
+        "url": "https://hh.ru/vacancy/128121213",
+        "salary": "Зарплата не указана",
+        "description": "Знание ETL-инструментов (Informatica, Talend, Airflow и др.). Описание UX, Figma. Описание процессов. <highlighttext>Python</highlighttext>, Java. Понимание архитектуры решений: модульная, микросервисная. "
+    },
+    {
+        "name": "Ведущий тестировщик",
+        "url": "https://hh.ru/vacancy/128145404",
+        "salary": "90000 - 150000 RUR",
+        "description": "Опыт и желание руководить отделом тестирования. Навыки QA. Опыт в составлении пользовательской документации. Опыт работы с Java, <highlighttext>Python</highlighttext>, Mqtt. "
+    },
+    {
+        "name": "Младший технический специалист / Junior Tech Specialist",
+        "url": "https://hh.ru/vacancy/128128747",
+        "salary": "70000 - 100000 RUR",
+        "description": "Базовые знания Linux (на уровне пользователя) и скриптовых языков (<highlighttext>Python</highlighttext> / Bash / JS). Понимание принципов работы рекламных трекеров, сетей, аналитики. "
+    },
+    {
+        "name": "Manual QA Engineer ПО",
+        "url": "https://hh.ru/vacancy/127699485",
+        "salary": "Зарплата не указана",
+        "description": "Опыт работы с <highlighttext>Python</highlighttext>. Опыт работы с SQLite. Опыт написания несложных скриптов (cmd/powershell/bash/<highlighttext>python</highlighttext>/vbs). Опыт работы с..."
+    },
+    {
+        "name": "Бэкенд-разработчик",
+        "url": "https://hh.ru/vacancy/128144693",
+        "salary": "Зарплата не указана",
+        "description": "У вас есть как минимум год работы в над крупным коммерческим проектом в похожей роли. Вы комфортно чувствуете себя в..."
+    },
+    {
+        "name": "Senior QA Engineer",
+        "url": "https://hh.ru/vacancy/128133625",
+        "salary": "Зарплата не указана",
+        "description": "Системное мышление. Продвинутые аналитические навыки. Опыт автоматизации с помощью <highlighttext>python</highlighttext> + pytest + Allure ТестОпс. Опыт тестирования клиент-серверных приложений. "
+    },
+    {
+        "name": "Data Engineer",
+        "url": "https://hh.ru/vacancy/128145102",
+        "salary": "Зарплата не указана",
+        "description": "Опыт работы Data Engineer / ETL-разработчиком. Уверенный SQL и опыт с PostgreSQL. Практический опыт с Apache Airflow. Опыт разработки моделей..."
+    },
+    {
+        "name": "Руководитель отдела аналитики",
+        "url": "https://hh.ru/vacancy/128137550",
+        "salary": "Зарплата не указана",
+        "description": "Уверенное владение <highlighttext>Python</highlighttext> и SQL (оптимизация запросов, оконные функции, большие объёмы данных). Опыт построения или масштабирования аналитической функции/команды. "
+    },
+    {
+        "name": "Тестировщик",
+        "url": "https://hh.ru/vacancy/128144848",
+        "salary": "до 110 RUR",
+        "description": "Внимательность к мелочам, умение формулировать проблему четко и лаконично. Опыт составления тестовой документации. Опыт тестирования (frontend , backend). Опыт работы с..."
+    },
+    {
+        "name": "Инженер данных / ML инженер / Разработчик Python",
+        "url": "https://hh.ru/vacancy/128064117",
+        "salary": "Зарплата не указана",
+        "description": "Опыт разработки на <highlighttext>Python</highlighttext> более 2-х лет. Опыт разработки backend-сервисов и HTTP API (желательно FastAPI, async/await). "
+    },
+    {
+        "name": "Аналитик-данных (ценообразование)",
+        "url": "https://hh.ru/vacancy/128104261",
+        "salary": "Зарплата не указана",
+        "description": "Умеет слышать бизнес-заказчика: вы способны понять реальную потребность коллег и перевести ее на язык данных и конкретных метрик. "
+    },
+    {
+        "name": "QA инженер",
+        "url": "https://hh.ru/vacancy/128110267",
+        "salary": "Зарплата не указана",
+        "description": "Знание одного или нескольких языков программирования (<highlighttext>Python</highlighttext>, JS, Java и т.п.) будет преимуществом. Опыт интеграции тестов в пайплайны CI..."
+    },
+    {
+        "name": "SDET / Software Design Engineer in Test",
+        "url": "https://hh.ru/vacancy/128128840",
+        "salary": "300000 - 330000 RUR",
+        "description": "Отличное владение языком <highlighttext>Python</highlighttext>, способность писать качественный, поддерживаемый код, понимание основ объектно-ориентированного программирования. Обширный опыт работы с системой Git..."
+    },
+    {
+        "name": "Python-разработчик (Лукоморье)",
+        "url": "https://hh.ru/vacancy/128138159",
+        "salary": "Зарплата не указана",
+        "description": "Высшее образование. Опыт коммерческой разработки на <highlighttext>Python</highlighttext> от 3 лет обязателен. Стек: FastAPI, PostgreSQL, Milvus, Docker, Git, Nginx, Kafka. "
+    },
+    {
+        "name": "Data Scientist / Дата-сайентист",
+        "url": "https://hh.ru/vacancy/128136344",
+        "salary": "Зарплата не указана",
+        "description": "Классический ML: регрессия, бустинг, кластеризация, ранжирование (понимание, когда и что применять). SQL на уровне уверенной работы с витринами и аналитическими..."
+    },
+    {
+        "name": "Product Manager в направление авиа (ассортимент)",
+        "url": "https://hh.ru/vacancy/128128937",
+        "salary": "Зарплата не указана",
+        "description": "Опыт проведения качественных исследований. — Опыт в Travel-области. — Знания SQL и <highlighttext>Python</highlighttext>. — Компания с хорошим техническим стеком, техруководителями и готовностью..."
+    },
+    {
+        "name": "Backend-разработчик (Python, Django/FastAPI)",
+        "url": "https://hh.ru/vacancy/128113787",
+        "salary": "50000 - 90000 RUR",
+        "description": "Требования: - 1–3 года коммерческого опыта разработки backend-части. - Уверенные знания <highlighttext>Python</highlighttext>, Django/DRF или FastAPI. - Опыт работы с Git..."
+    },
+    {
+        "name": "Бэкенд / Фулстек разработчик",
+        "url": "https://hh.ru/vacancy/128098804",
+        "salary": "80000 - 140000 RUR",
+        "description": "Опыт коммерческой разработки от 1 года. Отличное знание <highlighttext>Python</highlighttext> и понимание принципов ООП. Опыт работы с реляционными БД (PostgreSQL). "
+    },
+    {
+        "name": "Аналитик данных стажер/junior",
+        "url": "https://hh.ru/vacancy/127655507",
+        "salary": "Зарплата не указана",
+        "description": "Начальные знания в BI аналитике (PowerBI/Looker Studio/DataLens/ Tableau). Базовое знание <highlighttext>Python</highlighttext> (pandas, request) и SQL. Знание Google Sheets..."
+    },
+    {
+        "name": "Младший аналитик данных",
+        "url": "https://hh.ru/vacancy/127187175",
+        "salary": "от 80000 RUR",
+        "description": "Умение писать запросы и работать с базами данных (SQL).  Базовое владение <highlighttext>Python</highlighttext> для анализа данных.  Понимание основ статистики и теории..."
+    },
+    {
+        "name": "QA-инженер",
+        "url": "https://hh.ru/vacancy/127189649",
+        "salary": "Зарплата не указана",
+        "description": "...что такое IaaS и знание примеров инфраструктурных облачных платформ. Опыт тестирования безопасности. Опыт в нагрузочном тестировании. Знание JavaScript или <highlighttext>Python</highlighttext>."
+    },
+    {
+        "name": "Аналитик данных в службу внутреннего аудита",
+        "url": "https://hh.ru/vacancy/127327897",
+        "salary": "до 252432 RUR",
+        "description": "Опыт работы с: ETL-инструментами. Владение языками программирования, в частности <highlighttext>Python</highlighttext>. BI-инструментами (предпочтительно Qlik Sense). Навыки создания отчётов и..."
+    },
+    {
+        "name": "Python-разработчик",
+        "url": "https://hh.ru/vacancy/128125231",
+        "salary": "Зарплата не указана",
+        "description": "Опыт <highlighttext>python</highlighttext> разработки от 2 лет. Понимание микросервисной архитектуры. Знание шаблонов проектирования. Опыт работы c Docker, aiohttp (async frameworks). "
+    },
+    {
+        "name": "Senior Python developer",
+        "url": "https://hh.ru/vacancy/127493020",
+        "salary": "Зарплата не указана",
+        "description": "Опыт коммерческой разработки на <highlighttext>Python</highlighttext> от 3 лет. Понимание ООП, паттернов проектирования и алгоритмов. Умение работать с асинхронным кодом. "
+    },
+    {
+        "name": "Тестировщик ПО",
+        "url": "https://hh.ru/vacancy/127467656",
+        "salary": "Зарплата не указана",
+        "description": "Опыт тестирования мобильных приложений. Знание языка программирования <highlighttext>Python</highlighttext> (библиотеки Pytest, Playwright, Requests, Selenium). Опыт написания автотестов. Инициативность и ответственность. "
     }
 ]
